@@ -18,7 +18,7 @@ The CVs are supplied PDF snapshots; this repository does not regenerate them. Re
 
 OptBound currently uses HTTP because its custom domain's HTTPS certificate was not valid when this page was updated. The project card distinguishes the live decentralized suite from planned stochastic suites. Recheck the certificate before changing those links to HTTPS.
 
-The Google Scholar profile link is pending the owner's exact profile URL. Add it at the `SCHOLAR_LINK` marker in the profile links, without substituting another researcher's profile or a search result.
+The Google Scholar link in the profile area uses the owner's confirmed profile: https://scholar.google.com/citations?user=48njd3kAAAAJ&hl=en.
 
 ## Preview and publication
 
