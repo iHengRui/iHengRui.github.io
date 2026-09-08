@@ -16,3 +16,4 @@
 .index-group a .suite-status{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12px;color:var(--faint)}.index-group a .available{color:var(--accent)}
 .project-description>.muted,.paper-summary,.blog-row p{font-size:16px}
 .post-body .math.inline mjx-container{max-width:100%;overflow-x:auto;overflow-y:hidden;vertical-align:middle}
+.optbound-wordmark{white-space:nowrap}.optbound-wordmark .wordmark-opt{color:var(--text)}.optbound-wordmark .wordmark-bound{color:var(--accent)}
