@@ -11,8 +11,9 @@ This is the `gh-pages` deployment branch of `iHengRui/iHengRui.github.io`. GitHu
 - `assets/theme.js` and `assets/site.js`: persistent theme preference and navigation highlighting. All content and links work without JavaScript.
 - `blog/index.html`: writing index.
 - `2024/08/10/real_analysis/index.html`: original Real Analysis notes, inside the shared reading layout. Preserve the article body and embedded MathJax SVGs when editing its shell.
-- `files/Hengrui_Zhang_CV.pdf`: English CV.
-- `files/Hengrui_Zhang_CV_ZH.pdf`: Chinese CV.
+- `files/Hengrui_Zhang_CV_20260908.pdf`: current English CV.
+- `files/Hengrui_Zhang_CV_ZH_20260908.pdf`: current Chinese CV.
+- Publish CV revisions under new filenames and update the homepage links to avoid stale PDF previews. Keep the undated PDF copies in sync for existing bookmarks.
 
 The CVs are supplied PDF snapshots; this repository does not regenerate them. Replace them when a new version is ready. The publication list and author contributions follow the owner's September 2026 CV. Homepage status labels use “Preprint” until a publication decision is confirmed.
 
