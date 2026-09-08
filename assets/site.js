@@ -17,6 +17,33 @@
     });
   }
   const links = [...document.querySelectorAll('.main-nav a[data-section]')];
+  const clearSectionHash = () => {
+    if (location.hash) history.replaceState(history.state, '', location.pathname + location.search);
+  };
+  links.forEach(link => {
+    link.addEventListener('click', (event) => {
+      if (event.defaultPrevented || event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+      if (link.hasAttribute('download') || (link.target && link.target !== '_self')) return;
+      const section = document.getElementById(link.dataset.section);
+      if (!section) return;
+      event.preventDefault();
+      if (!section.hasAttribute('tabindex')) section.setAttribute('tabindex', '-1');
+      section.focus({ preventScroll: true });
+      section.scrollIntoView();
+      clearSectionHash();
+    });
+  });
+  // Keep existing bookmarks and navigation from blog pages working, then clean the URL.
+  const restoreSection = () => {
+    const link = links.find(link => '#' + link.dataset.section === location.hash);
+    const section = link && document.getElementById(link.dataset.section);
+    if (section) {
+      section.scrollIntoView({ behavior: 'instant' });
+      clearSectionHash();
+    }
+  };
+  if (document.readyState === 'complete') restoreSection();
+  else window.addEventListener('load', restoreSection, { once: true });
   if ('IntersectionObserver' in window && links.length) {
     const visible = new Set();
     const observer = new IntersectionObserver((entries) => {
