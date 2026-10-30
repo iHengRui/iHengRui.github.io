@@ -27,6 +27,6 @@ Preview this branch with any static HTTP server. Commit the intended files, then
 
 ## Provisional award status
 
-The October 2026 PKU award entry uses a descriptive English translation and must retain “provisional selection” until a final decision is verified. The official notice covers the 2026–2027 academic year and a public notice period of October 29–November 2, 2026. Do not automatically promote the status when the notice period ends.
+The October 2026 PKU award uses a descriptive English translation. At the owner's request, Selected honors shows only the date, award name, and institution, matching the other entries. News retains the provisional selection context and official notice link. The official notice covers the 2026–2027 academic year and a public notice period of October 29–November 2, 2026. Do not automatically promote the News status when the notice period ends.
 
 Official source: https://grs.pku.edu.cn/jzgz/dtxx1/tzgg1/1b7994457a134261a7759537178c1f9f.htm
