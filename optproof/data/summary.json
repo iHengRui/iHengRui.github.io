@@ -1,0 +1,38 @@
+{
+  "schema_version": "optproof-summary-v1",
+  "records": 155,
+  "source_papers": 155,
+  "journals": {
+    "Journal of Optimization Theory and Applications": 45,
+    "Mathematical Programming": 51,
+    "SIAM Journal on Optimization": 59
+  },
+  "sections": [
+    "context",
+    "statement",
+    "proof",
+    "nodes",
+    "dependency_graph"
+  ],
+  "nodes": 10053,
+  "support_edges": 21484,
+  "proof_characters": {
+    "median": 17941,
+    "minimum": 1146,
+    "maximum": 64380,
+    "at_least_10000": 117
+  },
+  "collection": {
+    "name": "OptProof",
+    "homepage": "https://zhr.xyz/optproof/",
+    "target_articles": 1575,
+    "source_articles_collected": 1573,
+    "target_proofs_complete": 146,
+    "earlier_sample_records": 9,
+    "target_publication_years": {
+      "minimum": 2020,
+      "maximum": 2026
+    },
+    "source_catalog": "downloads/source_catalog.csv"
+  }
+}

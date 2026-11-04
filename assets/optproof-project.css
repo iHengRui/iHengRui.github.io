@@ -1,0 +1,68 @@
+.projects-section .featured-project + .featured-project {
+  margin-top: 24px;
+}
+
+.optproof-wordmark {
+  white-space: nowrap;
+}
+
+.optproof-wordmark .wordmark-opt {
+  color: var(--text);
+}
+
+.optproof-wordmark .wordmark-proof {
+  color: var(--accent);
+}
+
+.optproof-card .project-index {
+  display: block;
+}
+
+.optproof-statistics {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  margin: 19px 0 23px;
+}
+
+.optproof-statistics > div {
+  display: flex;
+  flex-direction: column;
+}
+
+.optproof-statistics dt {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.optproof-statistics dd {
+  order: -1;
+  margin: 0;
+  color: var(--text);
+  font-size: 32px;
+  font-weight: 680;
+  line-height: 1.3;
+  letter-spacing: -.03em;
+}
+
+.optproof-journal-counts {
+  margin: 0;
+}
+
+.optproof-journal-counts > div {
+  display: flex;
+  justify-content: space-between;
+  gap: 18px;
+  padding: 4px 0;
+  color: var(--muted);
+}
+
+.optproof-journal-counts abbr {
+  text-decoration: none;
+}
+
+.optproof-journal-counts dd {
+  margin: 0;
+  color: var(--text);
+  font-variant-numeric: tabular-nums;
+}

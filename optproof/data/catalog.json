@@ -1,0 +1,3369 @@
+{
+  "schema_version": "optproof-catalog-v1",
+  "collection": {
+    "name": "OptProof",
+    "homepage": "https://zhr.xyz/optproof/",
+    "target_articles": 1575,
+    "source_articles_collected": 1573,
+    "target_proofs_complete": 146,
+    "earlier_sample_records": 9,
+    "target_publication_years": {
+      "minimum": 2020,
+      "maximum": 2026
+    },
+    "source_catalog": "downloads/source_catalog.csv"
+  },
+  "records": [
+    {
+      "record_id": "1912.02516v3",
+      "paper": {
+        "title": "Local convergence of tensor methods",
+        "authors": [
+          "Doikov, Nikita",
+          "Nesterov, Yurii"
+        ],
+        "arxiv_id": "1912.02516",
+        "version": "v3",
+        "journal": "Mathematical Programming",
+        "abstract_url": "https://arxiv.org/abs/1912.02516v3",
+        "pdf_url": "https://arxiv.org/pdf/1912.02516v3",
+        "doi": "10.1007/s10107-020-01606-x"
+      },
+      "counts": {
+        "nodes": 35,
+        "edges": 67
+      },
+      "url": "data/records/1912.02516v3.json"
+    },
+    {
+      "record_id": "1912.07481v4",
+      "paper": {
+        "title": "On Lower Iteration Complexity Bounds for the Saddle Point Problems",
+        "authors": [
+          "Zhang, Junyu",
+          "Hong, Mingyi",
+          "Zhang, Shuzhong"
+        ],
+        "arxiv_id": "1912.07481",
+        "version": "v4",
+        "journal": "Mathematical Programming",
+        "abstract_url": "https://arxiv.org/abs/1912.07481v4",
+        "pdf_url": "https://arxiv.org/pdf/1912.07481v4",
+        "doi": "10.1007/s10107-021-01660-z"
+      },
+      "counts": {
+        "nodes": 84,
+        "edges": 199
+      },
+      "url": "data/records/1912.07481v4.json"
+    },
+    {
+      "record_id": "2309.16530v1",
+      "paper": {
+        "title": "Acceleration by Stepsize Hedging II: Silver Stepsize Schedule for Smooth Convex Optimization",
+        "authors": [
+          "Altschuler, Jason M.",
+          "Parrilo, Pablo A."
+        ],
+        "arxiv_id": "2309.16530",
+        "version": "v1",
+        "journal": "Mathematical Programming",
+        "abstract_url": "https://arxiv.org/abs/2309.16530v1",
+        "pdf_url": "https://arxiv.org/pdf/2309.16530v1",
+        "doi": "10.1007/s10107-024-02164-2"
+      },
+      "counts": {
+        "nodes": 70,
+        "edges": 170
+      },
+      "url": "data/records/2309.16530v1.json"
+    },
+    {
+      "record_id": "1510.08560v4",
+      "paper": {
+        "title": "Why Random Reshuffling Beats Stochastic Gradient Descent",
+        "authors": [
+          "Gürbüzbalaban, Mert",
+          "Ozdaglar, Asuman",
+          "Parrilo, Pablo"
+        ],
+        "arxiv_id": "1510.08560",
+        "version": "v4",
+        "journal": "Mathematical Programming",
+        "abstract_url": "https://arxiv.org/abs/1510.08560v4",
+        "pdf_url": "https://arxiv.org/pdf/1510.08560v4",
+        "doi": "10.1007/s10107-019-01440-w"
+      },
+      "counts": {
+        "nodes": 81,
+        "edges": 222
+      },
+      "url": "data/records/1510.08560v4.json"
+    },
+    {
+      "record_id": "2006.02032v5",
+      "paper": {
+        "title": "A Unified Single-loop Alternating Gradient Projection Algorithm for Nonconvex-Concave and Convex-Nonconcave Minimax Problems",
+        "authors": [
+          "Xu, Zi",
+          "Zhang, Huiling",
+          "Xu, Yang",
+          "Lan, Guanghui"
+        ],
+        "arxiv_id": "2006.02032",
+        "version": "v5",
+        "journal": "Mathematical Programming",
+        "abstract_url": "https://arxiv.org/abs/2006.02032v5",
+        "pdf_url": "https://arxiv.org/pdf/2006.02032v5",
+        "doi": "10.1007/s10107-022-01919-z"
+      },
+      "counts": {
+        "nodes": 76,
+        "edges": 167
+      },
+      "url": "data/records/2006.02032v5.json"
+    },
+    {
+      "record_id": "2303.03534v5",
+      "paper": {
+        "title": "Global convergence of the gradient method for functions definable in o-minimal structures",
+        "authors": [
+          "Josz, Cédric"
+        ],
+        "arxiv_id": "2303.03534",
+        "version": "v5",
+        "journal": "Mathematical Programming",
+        "abstract_url": "https://arxiv.org/abs/2303.03534v5",
+        "pdf_url": "https://arxiv.org/pdf/2303.03534v5",
+        "doi": "10.1007/s10107-023-01937-5"
+      },
+      "counts": {
+        "nodes": 87,
+        "edges": 218
+      },
+      "url": "data/records/2303.03534v5.json"
+    },
+    {
+      "record_id": "1710.03475v4",
+      "paper": {
+        "title": "Sparse Semidefinite Programs with Guaranteed Near-Linear Time Complexity via Dualized Clique Tree Conversion",
+        "authors": [
+          "Zhang, Richard Y.",
+          "Lavaei, Javad"
+        ],
+        "arxiv_id": "1710.03475",
+        "version": "v4",
+        "journal": "Mathematical Programming",
+        "abstract_url": "https://arxiv.org/abs/1710.03475v4",
+        "pdf_url": "https://arxiv.org/pdf/1710.03475v4",
+        "doi": "10.1007/s10107-020-01516-y"
+      },
+      "counts": {
+        "nodes": 92,
+        "edges": 184
+      },
+      "url": "data/records/1710.03475v4.json"
+    },
+    {
+      "record_id": "2211.14850v2",
+      "paper": {
+        "title": "Lyapunov stability of the subgradient method with constant step size",
+        "authors": [
+          "Josz, Cédric",
+          "Lai, Lexiao"
+        ],
+        "arxiv_id": "2211.14850",
+        "version": "v2",
+        "journal": "Mathematical Programming",
+        "abstract_url": "https://arxiv.org/abs/2211.14850v2",
+        "pdf_url": "https://arxiv.org/pdf/2211.14850v2",
+        "doi": "10.1007/s10107-023-01936-6"
+      },
+      "counts": {
+        "nodes": 56,
+        "edges": 147
+      },
+      "url": "data/records/2211.14850v2.json"
+    },
+    {
+      "record_id": "2002.07321v4",
+      "paper": {
+        "title": "Sampling Kaczmarz Motzkin Method for Linear Feasibility Problems: Generalization & Acceleration",
+        "authors": [
+          "Morshed, Md Sarowar",
+          "Islam, Md Saiful",
+          "Noor-E-Alam, Md."
+        ],
+        "arxiv_id": "2002.07321",
+        "version": "v4",
+        "journal": "Mathematical Programming",
+        "abstract_url": "https://arxiv.org/abs/2002.07321v4",
+        "pdf_url": "https://arxiv.org/pdf/2002.07321v4",
+        "doi": "10.1007/s10107-021-01649-8"
+      },
+      "counts": {
+        "nodes": 62,
+        "edges": 131
+      },
+      "url": "data/records/2002.07321v4.json"
+    },
+    {
+      "record_id": "2207.01789v2",
+      "paper": {
+        "title": "Improved Global Guarantees for the Nonconvex Burer--Monteiro Factorization via Rank Overparameterization",
+        "authors": [
+          "Zhang, Richard Y."
+        ],
+        "arxiv_id": "2207.01789",
+        "version": "v2",
+        "journal": "Mathematical Programming",
+        "abstract_url": "https://arxiv.org/abs/2207.01789v2",
+        "pdf_url": "https://arxiv.org/pdf/2207.01789v2",
+        "doi": "10.1007/s10107-024-02160-6"
+      },
+      "counts": {
+        "nodes": 96,
+        "edges": 174
+      },
+      "url": "data/records/2207.01789v2.json"
+    },
+    {
+      "record_id": "2012.02522v5",
+      "paper": {
+        "title": "Accelerating Inexact Successive Quadratic Approximation for Regularized Optimization Through Manifold Identification",
+        "authors": [
+          "Lee, Ching-pei"
+        ],
+        "arxiv_id": "2012.02522",
+        "version": "v5",
+        "journal": "Mathematical Programming",
+        "abstract_url": "https://arxiv.org/abs/2012.02522v5",
+        "pdf_url": "https://arxiv.org/pdf/2012.02522v5",
+        "doi": "10.1007/s10107-022-01916-2"
+      },
+      "counts": {
+        "nodes": 75,
+        "edges": 156
+      },
+      "url": "data/records/2012.02522v5.json"
+    },
+    {
+      "record_id": "1408.4685v3",
+      "paper": {
+        "title": "Partial facial reduction: simplified, equivalent SDPs via approximations of the PSD cone",
+        "authors": [
+          "Permenter, Frank",
+          "Parrilo, Pablo"
+        ],
+        "arxiv_id": "1408.4685",
+        "version": "v3",
+        "journal": "Mathematical Programming",
+        "abstract_url": "https://arxiv.org/abs/1408.4685v3",
+        "pdf_url": "https://arxiv.org/pdf/1408.4685v3",
+        "doi": "10.1007/s10107-017-1169-9"
+      },
+      "counts": {
+        "nodes": 44,
+        "edges": 85
+      },
+      "url": "data/records/1408.4685v3.json"
+    },
+    {
+      "record_id": "1810.12197v3",
+      "paper": {
+        "title": "Semidefinite programming hierarchies for constrained bilinear optimization",
+        "authors": [
+          "Berta, Mario",
+          "Borderi, Francesco",
+          "Fawzi, Omar",
+          "Scholz, Volkher"
+        ],
+        "arxiv_id": "1810.12197",
+        "version": "v3",
+        "journal": "Mathematical Programming",
+        "abstract_url": "https://arxiv.org/abs/1810.12197v3",
+        "pdf_url": "https://arxiv.org/pdf/1810.12197v3",
+        "doi": "10.1007/s10107-021-01650-1"
+      },
+      "counts": {
+        "nodes": 71,
+        "edges": 113
+      },
+      "url": "data/records/1810.12197v3.json"
+    },
+    {
+      "record_id": "2110.09854v4",
+      "paper": {
+        "title": "A New Extension of Chubanov's Method to Symmetric Cones",
+        "authors": [
+          "Kanoh, Shin-ichi",
+          "Yoshise, Akiko"
+        ],
+        "arxiv_id": "2110.09854",
+        "version": "v4",
+        "journal": "Mathematical Programming",
+        "abstract_url": "https://arxiv.org/abs/2110.09854v4",
+        "pdf_url": "https://arxiv.org/pdf/2110.09854v4",
+        "doi": "10.1007/s10107-023-01995-9"
+      },
+      "counts": {
+        "nodes": 62,
+        "edges": 128
+      },
+      "url": "data/records/2110.09854v4.json"
+    },
+    {
+      "record_id": "2306.15288v2",
+      "paper": {
+        "title": "Complexity of Chordal Conversion for Sparse Semidefinite Programs with Small Treewidth",
+        "authors": [
+          "Zhang, Richard Y."
+        ],
+        "arxiv_id": "2306.15288",
+        "version": "v2",
+        "journal": "Mathematical Programming",
+        "abstract_url": "https://arxiv.org/abs/2306.15288v2",
+        "pdf_url": "https://arxiv.org/pdf/2306.15288v2",
+        "doi": "10.1007/s10107-024-02137-5"
+      },
+      "counts": {
+        "nodes": 108,
+        "edges": 218
+      },
+      "url": "data/records/2306.15288v2.json"
+    },
+    {
+      "record_id": "2203.09762v4",
+      "paper": {
+        "title": "Riemannian Interior Point Methods for Constrained Optimization on Manifolds",
+        "authors": [
+          "Lai, Zhijian",
+          "Yoshise, Akiko"
+        ],
+        "arxiv_id": "2203.09762",
+        "version": "v4",
+        "journal": "Journal of Optimization Theory and Applications",
+        "abstract_url": "https://arxiv.org/abs/2203.09762v4",
+        "pdf_url": "https://arxiv.org/pdf/2203.09762v4",
+        "doi": "10.1007/s10957-024-02403-8"
+      },
+      "counts": {
+        "nodes": 79,
+        "edges": 181
+      },
+      "url": "data/records/2203.09762v4.json"
+    },
+    {
+      "record_id": "2401.02635v3",
+      "paper": {
+        "title": "Bregman Proximal Linearized ADMM for Minimizing Separable Sums Coupled by a Difference of Functions",
+        "authors": [
+          "Pham, Tan Nhat",
+          "Dao, Minh N.",
+          "Eberhard, Andrew",
+          "Sultanova, Nargiz"
+        ],
+        "arxiv_id": "2401.02635",
+        "version": "v3",
+        "journal": "Journal of Optimization Theory and Applications",
+        "abstract_url": "https://arxiv.org/abs/2401.02635v3",
+        "pdf_url": "https://arxiv.org/pdf/2401.02635v3",
+        "doi": "10.1007/s10957-024-02539-7"
+      },
+      "counts": {
+        "nodes": 85,
+        "edges": 228
+      },
+      "url": "data/records/2401.02635v3.json"
+    },
+    {
+      "record_id": "1303.1859v4",
+      "paper": {
+        "title": "A Cyclic Douglas-Rachford Iteration Scheme",
+        "authors": [
+          "Borwein, Jonathan M.",
+          "Tam, Matthew K."
+        ],
+        "arxiv_id": "1303.1859",
+        "version": "v4",
+        "journal": "Journal of Optimization Theory and Applications",
+        "abstract_url": "https://arxiv.org/abs/1303.1859v4",
+        "pdf_url": "https://arxiv.org/pdf/1303.1859v4",
+        "doi": "10.1007/s10957-013-0381-x"
+      },
+      "counts": {
+        "nodes": 52,
+        "edges": 100
+      },
+      "url": "data/records/1303.1859v4.json"
+    },
+    {
+      "record_id": "1807.05810v2",
+      "paper": {
+        "title": "Union Averaged Operators with Applications to Proximal Algorithms for Min-Convex Functions",
+        "authors": [
+          "Dao, Minh N.",
+          "Tam, Matthew K."
+        ],
+        "arxiv_id": "1807.05810",
+        "version": "v2",
+        "journal": "Journal of Optimization Theory and Applications",
+        "abstract_url": "https://arxiv.org/abs/1807.05810v2",
+        "pdf_url": "https://arxiv.org/pdf/1807.05810v2",
+        "doi": "10.1007/s10957-018-1443-x"
+      },
+      "counts": {
+        "nodes": 69,
+        "edges": 153
+      },
+      "url": "data/records/1807.05810v2.json"
+    },
+    {
+      "record_id": "2207.06750v2",
+      "paper": {
+        "title": "On the Approximation of Unbounded Convex Sets by Polyhedra",
+        "authors": [
+          "Dörfler, Daniel"
+        ],
+        "arxiv_id": "2207.06750",
+        "version": "v2",
+        "journal": "Journal of Optimization Theory and Applications",
+        "abstract_url": "https://arxiv.org/abs/2207.06750v2",
+        "pdf_url": "https://arxiv.org/pdf/2207.06750v2",
+        "doi": "10.1007/s10957-022-02020-3"
+      },
+      "counts": {
+        "nodes": 58,
+        "edges": 154
+      },
+      "url": "data/records/2207.06750v2.json"
+    },
+    {
+      "record_id": "2003.02400v2",
+      "paper": {
+        "title": "Bounds for the tracking error of first-order online optimization methods",
+        "authors": [
+          "Madden, Liam",
+          "Becker, Stephen",
+          "Dall'Anese, Emiliano"
+        ],
+        "arxiv_id": "2003.02400",
+        "version": "v2",
+        "journal": "Journal of Optimization Theory and Applications",
+        "abstract_url": "https://arxiv.org/abs/2003.02400v2",
+        "pdf_url": "https://arxiv.org/pdf/2003.02400v2",
+        "doi": "10.1007/s10957-021-01836-9"
+      },
+      "counts": {
+        "nodes": 38,
+        "edges": 66
+      },
+      "url": "data/records/2003.02400v2.json"
+    },
+    {
+      "record_id": "2203.00252v4",
+      "paper": {
+        "title": "Bregman three-operator splitting methods",
+        "authors": [
+          "Jiang, Xin",
+          "Vandenberghe, Lieven"
+        ],
+        "arxiv_id": "2203.00252",
+        "version": "v4",
+        "journal": "Journal of Optimization Theory and Applications",
+        "abstract_url": "https://arxiv.org/abs/2203.00252v4",
+        "pdf_url": "https://arxiv.org/pdf/2203.00252v4",
+        "doi": "10.1007/s10957-022-02125-9"
+      },
+      "counts": {
+        "nodes": 72,
+        "edges": 119
+      },
+      "url": "data/records/2203.00252v4.json"
+    },
+    {
+      "record_id": "1905.02671v3",
+      "paper": {
+        "title": "Minimizing Uniformly Convex Functions by Cubic Regularization of Newton Method",
+        "authors": [
+          "Doikov, Nikita",
+          "Nesterov, Yurii"
+        ],
+        "arxiv_id": "1905.02671",
+        "version": "v3",
+        "journal": "Journal of Optimization Theory and Applications",
+        "abstract_url": "https://arxiv.org/abs/1905.02671v3",
+        "pdf_url": "https://arxiv.org/pdf/1905.02671v3",
+        "doi": "10.1007/s10957-021-01838-7"
+      },
+      "counts": {
+        "nodes": 77,
+        "edges": 188
+      },
+      "url": "data/records/1905.02671v3.json"
+    },
+    {
+      "record_id": "1309.7002v3",
+      "paper": {
+        "title": "Quantitative Characterizations of Regularity Properties of Collections of Sets",
+        "authors": [
+          "Kruger, Alexander",
+          "Thao, Nguyen Hieu"
+        ],
+        "arxiv_id": "1309.7002",
+        "version": "v3",
+        "journal": "Journal of Optimization Theory and Applications",
+        "abstract_url": "https://arxiv.org/abs/1309.7002v3",
+        "pdf_url": "https://arxiv.org/pdf/1309.7002v3",
+        "doi": "10.1007/s10957-014-0556-0"
+      },
+      "counts": {
+        "nodes": 79,
+        "edges": 141
+      },
+      "url": "data/records/1309.7002v3.json"
+    },
+    {
+      "record_id": "1209.0652v2",
+      "paper": {
+        "title": "Necessary and sufficient conditions of solution uniqueness in $\\ell_1$ minimization",
+        "authors": [
+          "Zhang, Hui",
+          "Yin, Wotao",
+          "Cheng, Lizhi"
+        ],
+        "arxiv_id": "1209.0652",
+        "version": "v2",
+        "journal": "Journal of Optimization Theory and Applications",
+        "abstract_url": "https://arxiv.org/abs/1209.0652v2",
+        "pdf_url": "https://arxiv.org/pdf/1209.0652v2",
+        "doi": "10.1007/s10957-014-0581-z"
+      },
+      "counts": {
+        "nodes": 74,
+        "edges": 178
+      },
+      "url": "data/records/1209.0652v2.json"
+    },
+    {
+      "record_id": "1912.12153v1",
+      "paper": {
+        "title": "Accelerated iterative regularization via dual diagonal descent",
+        "authors": [
+          "Calatroni, Luca",
+          "Garrigos, Guillaume",
+          "Rosasco, Lorenzo",
+          "Villa, Silvia"
+        ],
+        "arxiv_id": "1912.12153",
+        "version": "v1",
+        "journal": "SIAM Journal on Optimization",
+        "abstract_url": "https://arxiv.org/abs/1912.12153v1",
+        "pdf_url": "https://arxiv.org/pdf/1912.12153v1",
+        "doi": "10.1137/19M1308888"
+      },
+      "counts": {
+        "nodes": 85,
+        "edges": 174
+      },
+      "url": "data/records/1912.12153v1.json"
+    },
+    {
+      "record_id": "1705.06019v2",
+      "paper": {
+        "title": "Regularizing with Bregman-Moreau envelopes",
+        "authors": [
+          "Bauschke, Heinz H.",
+          "Dao, Minh N.",
+          "Lindstrom, Scott B."
+        ],
+        "arxiv_id": "1705.06019",
+        "version": "v2",
+        "journal": "SIAM Journal on Optimization",
+        "abstract_url": "https://arxiv.org/abs/1705.06019v2",
+        "pdf_url": "https://arxiv.org/pdf/1705.06019v2",
+        "doi": "10.1137/17M1130745"
+      },
+      "counts": {
+        "nodes": 80,
+        "edges": 140
+      },
+      "url": "data/records/1705.06019v2.json"
+    },
+    {
+      "record_id": "2205.11093v2",
+      "paper": {
+        "title": "Accelerated Minimax Algorithms Flock Together",
+        "authors": [
+          "Yoon, TaeHo",
+          "Ryu, Ernest K."
+        ],
+        "arxiv_id": "2205.11093",
+        "version": "v2",
+        "journal": "SIAM Journal on Optimization",
+        "abstract_url": "https://arxiv.org/abs/2205.11093v2",
+        "pdf_url": "https://arxiv.org/pdf/2205.11093v2",
+        "doi": "10.1137/22M1504597"
+      },
+      "counts": {
+        "nodes": 55,
+        "edges": 137
+      },
+      "url": "data/records/2205.11093v2.json"
+    },
+    {
+      "record_id": "2211.04889v4",
+      "paper": {
+        "title": "Exponential convergence of sum-of-squares hierarchies for trigonometric polynomials",
+        "authors": [
+          "Bach, Francis",
+          "Rudi, Alessandro"
+        ],
+        "arxiv_id": "2211.04889",
+        "version": "v4",
+        "journal": "SIAM Journal on Optimization",
+        "abstract_url": "https://arxiv.org/abs/2211.04889v4",
+        "pdf_url": "https://arxiv.org/pdf/2211.04889v4",
+        "doi": "10.1137/22m1540818"
+      },
+      "counts": {
+        "nodes": 48,
+        "edges": 97
+      },
+      "url": "data/records/2211.04889v4.json"
+    },
+    {
+      "record_id": "2101.03067v2",
+      "paper": {
+        "title": "Exponential Decay of Sensitivity in Graph-Structured Nonlinear Programs",
+        "authors": [
+          "Shin, Sungho",
+          "Anitescu, Mihai",
+          "Zavala, Victor M."
+        ],
+        "arxiv_id": "2101.03067",
+        "version": "v2",
+        "journal": "SIAM Journal on Optimization",
+        "abstract_url": "https://arxiv.org/abs/2101.03067v2",
+        "pdf_url": "https://arxiv.org/pdf/2101.03067v2",
+        "doi": "10.1137/21M1391079"
+      },
+      "counts": {
+        "nodes": 69,
+        "edges": 171
+      },
+      "url": "data/records/2101.03067v2.json"
+    },
+    {
+      "record_id": "2405.08894v4",
+      "paper": {
+        "title": "Global weight optimization of frame structures under free-vibration eigenvalue constraints",
+        "authors": [
+          "Tyburec, Marek",
+          "Kočvara, Michal",
+          "Handa, Marouan",
+          "Zeman, Jan"
+        ],
+        "arxiv_id": "2405.08894",
+        "version": "v4",
+        "journal": "SIAM Journal on Optimization",
+        "abstract_url": "https://arxiv.org/abs/2405.08894v4",
+        "pdf_url": "https://arxiv.org/pdf/2405.08894v4",
+        "doi": "10.1137/24M1713934"
+      },
+      "counts": {
+        "nodes": 71,
+        "edges": 143
+      },
+      "url": "data/records/2405.08894v4.json"
+    },
+    {
+      "record_id": "2011.09782v4",
+      "paper": {
+        "title": "Inertial Proximal Block Coordinate Method for a Class of Nonsmooth Sum-of-Ratios Optimization Problems",
+        "authors": [
+          "Boţ, Radu Ioan",
+          "Dao, Minh N.",
+          "Li, Guoyin"
+        ],
+        "arxiv_id": "2011.09782",
+        "version": "v4",
+        "journal": "SIAM Journal on Optimization",
+        "abstract_url": "https://arxiv.org/abs/2011.09782v4",
+        "pdf_url": "https://arxiv.org/pdf/2011.09782v4",
+        "doi": "10.1137/22M1472000"
+      },
+      "counts": {
+        "nodes": 82,
+        "edges": 140
+      },
+      "url": "data/records/2011.09782v4.json"
+    },
+    {
+      "record_id": "1809.00761v3",
+      "paper": {
+        "title": "Adaptive Douglas-Rachford splitting algorithm for the sum of two operators",
+        "authors": [
+          "Dao, Minh N.",
+          "Phan, Hung M."
+        ],
+        "arxiv_id": "1809.00761",
+        "version": "v3",
+        "journal": "SIAM Journal on Optimization",
+        "abstract_url": "https://arxiv.org/abs/1809.00761v3",
+        "pdf_url": "https://arxiv.org/pdf/1809.00761v3",
+        "doi": "10.1137/18M121160X"
+      },
+      "counts": {
+        "nodes": 87,
+        "edges": 178
+      },
+      "url": "data/records/1809.00761v3.json"
+    },
+    {
+      "record_id": "1512.02549v4",
+      "paper": {
+        "title": "Facial Reduction and Partial Polyhedrality",
+        "authors": [
+          "Lourenço, Bruno F.",
+          "Muramatsu, Masakazu",
+          "Tsuchiya, Takashi"
+        ],
+        "arxiv_id": "1512.02549",
+        "version": "v4",
+        "journal": "SIAM Journal on Optimization",
+        "abstract_url": "https://arxiv.org/abs/1512.02549v4",
+        "pdf_url": "https://arxiv.org/pdf/1512.02549v4",
+        "doi": "10.1137/15M1051634"
+      },
+      "counts": {
+        "nodes": 84,
+        "edges": 179
+      },
+      "url": "data/records/1512.02549v4.json"
+    },
+    {
+      "record_id": "1810.05633v2",
+      "paper": {
+        "title": "Stochastic (Approximate) Proximal Point Methods: Convergence, Optimality, and Adaptivity",
+        "authors": [
+          "Asi, Hilal",
+          "Duchi, John C."
+        ],
+        "arxiv_id": "1810.05633",
+        "version": "v2",
+        "journal": "SIAM Journal on Optimization",
+        "abstract_url": "https://arxiv.org/abs/1810.05633v2",
+        "pdf_url": "https://arxiv.org/pdf/1810.05633v2",
+        "doi": "10.1137/18M1230323"
+      },
+      "counts": {
+        "nodes": 56,
+        "edges": 124
+      },
+      "url": "data/records/1810.05633v2.json"
+    },
+    {
+      "record_id": "2412.18929v5",
+      "paper": {
+        "title": "Alternating Gradient-Type Algorithm for Bilevel Optimization with Inexact Lower-Level Solutions via Moreau Envelope-based Reformulation",
+        "authors": [
+          "Bai, Xiaoning",
+          "Zeng, Shangzhi",
+          "Zhang, Jin",
+          "Zhang, Lezhi"
+        ],
+        "arxiv_id": "2412.18929",
+        "version": "v5",
+        "journal": "SIAM Journal on Optimization",
+        "abstract_url": "https://arxiv.org/abs/2412.18929v5",
+        "pdf_url": "https://arxiv.org/pdf/2412.18929v5",
+        "doi": "10.1137/24M1721049"
+      },
+      "counts": {
+        "nodes": 92,
+        "edges": 243
+      },
+      "url": "data/records/2412.18929v5.json"
+    },
+    {
+      "record_id": "2412.13191v3",
+      "paper": {
+        "title": "Moment-sos and spectral hierarchies for polynomial optimization on the sphere and quantum de Finetti theorems",
+        "authors": [
+          "Blomenhofer, Alexander Taveira",
+          "Laurent, Monique"
+        ],
+        "arxiv_id": "2412.13191",
+        "version": "v3",
+        "journal": "SIAM Journal on Optimization",
+        "abstract_url": "https://arxiv.org/abs/2412.13191v3",
+        "pdf_url": "https://arxiv.org/pdf/2412.13191v3",
+        "doi": "10.1137/24M1717750"
+      },
+      "counts": {
+        "nodes": 51,
+        "edges": 118
+      },
+      "url": "data/records/2412.13191v3.json"
+    },
+    {
+      "record_id": "2403.19448v3",
+      "paper": {
+        "title": "Fisher-Rao Gradient Flows of Linear Programs and State-Action Natural Policy Gradients",
+        "authors": [
+          "Müller, Johannes",
+          "Çaycı, Semih",
+          "Montúfar, Guido"
+        ],
+        "arxiv_id": "2403.19448",
+        "version": "v3",
+        "journal": "SIAM Journal on Optimization",
+        "abstract_url": "https://arxiv.org/abs/2403.19448v3",
+        "pdf_url": "https://arxiv.org/pdf/2403.19448v3",
+        "doi": "10.1137/24M1653422"
+      },
+      "counts": {
+        "nodes": 76,
+        "edges": 127
+      },
+      "url": "data/records/2403.19448v3.json"
+    },
+    {
+      "record_id": "2403.02530v3",
+      "paper": {
+        "title": "Projected gradient descent accumulates at Bouligand stationary points",
+        "authors": [
+          "Olikier, Guillaume",
+          "Waldspurger, Irène"
+        ],
+        "arxiv_id": "2403.02530",
+        "version": "v3",
+        "journal": "SIAM Journal on Optimization",
+        "abstract_url": "https://arxiv.org/abs/2403.02530v3",
+        "pdf_url": "https://arxiv.org/pdf/2403.02530v3",
+        "doi": "10.1137/24M1692782"
+      },
+      "counts": {
+        "nodes": 80,
+        "edges": 198
+      },
+      "url": "data/records/2403.02530v3.json"
+    },
+    {
+      "record_id": "2303.03536v2",
+      "paper": {
+        "title": "Certifying the absence of spurious local minima at infinity",
+        "authors": [
+          "Josz, Cédric",
+          "Li, Xiaopeng"
+        ],
+        "arxiv_id": "2303.03536",
+        "version": "v2",
+        "journal": "SIAM Journal on Optimization",
+        "abstract_url": "https://arxiv.org/abs/2303.03536v2",
+        "pdf_url": "https://arxiv.org/pdf/2303.03536v2",
+        "doi": "10.1137/22m1479531"
+      },
+      "counts": {
+        "nodes": 80,
+        "edges": 178
+      },
+      "url": "data/records/2303.03536v2.json"
+    },
+    {
+      "record_id": "2302.04077v3",
+      "paper": {
+        "title": "MGProx: A nonsmooth multigrid proximal gradient method with adaptive restriction for strongly convex optimization",
+        "authors": [
+          "Ang, Andersen",
+          "De Sterck, Hans",
+          "Vavasis, Stephen"
+        ],
+        "arxiv_id": "2302.04077",
+        "version": "v3",
+        "journal": "SIAM Journal on Optimization",
+        "abstract_url": "https://arxiv.org/abs/2302.04077v3",
+        "pdf_url": "https://arxiv.org/pdf/2302.04077v3",
+        "doi": "10.1137/23M1552140"
+      },
+      "counts": {
+        "nodes": 73,
+        "edges": 125
+      },
+      "url": "data/records/2302.04077v3.json"
+    },
+    {
+      "record_id": "2301.11678v2",
+      "paper": {
+        "title": "Approximating Higher-Order Derivative Tensors Using Secant Updates",
+        "authors": [
+          "Welzel, Karl",
+          "Hauser, Raphael A."
+        ],
+        "arxiv_id": "2301.11678",
+        "version": "v2",
+        "journal": "SIAM Journal on Optimization",
+        "abstract_url": "https://arxiv.org/abs/2301.11678v2",
+        "pdf_url": "https://arxiv.org/pdf/2301.11678v2",
+        "doi": "10.1137/23M1549687"
+      },
+      "counts": {
+        "nodes": 51,
+        "edges": 125
+      },
+      "url": "data/records/2301.11678v2.json"
+    },
+    {
+      "record_id": "2301.08726v2",
+      "paper": {
+        "title": "Continuous Newton-like Methods featuring Inertia and Variable Mass",
+        "authors": [
+          "Castera, Camille",
+          "Attouch, Hedy",
+          "Fadili, Jalal",
+          "Ochs, Peter"
+        ],
+        "arxiv_id": "2301.08726",
+        "version": "v2",
+        "journal": "SIAM Journal on Optimization",
+        "abstract_url": "https://arxiv.org/abs/2301.08726v2",
+        "pdf_url": "https://arxiv.org/pdf/2301.08726v2",
+        "doi": "10.1137/23M1549675"
+      },
+      "counts": {
+        "nodes": 63,
+        "edges": 171
+      },
+      "url": "data/records/2301.08726v2.json"
+    },
+    {
+      "record_id": "2212.06410v2",
+      "paper": {
+        "title": "Parameter-free accelerated gradient descent for nonconvex minimization",
+        "authors": [
+          "Marumo, Naoki",
+          "Takeda, Akiko"
+        ],
+        "arxiv_id": "2212.06410",
+        "version": "v2",
+        "journal": "SIAM Journal on Optimization",
+        "abstract_url": "https://arxiv.org/abs/2212.06410v2",
+        "pdf_url": "https://arxiv.org/pdf/2212.06410v2",
+        "doi": "10.1137/22M1540934"
+      },
+      "counts": {
+        "nodes": 87,
+        "edges": 216
+      },
+      "url": "data/records/2212.06410v2.json"
+    },
+    {
+      "record_id": "2211.16142v3",
+      "paper": {
+        "title": "Generalized power cones: optimal error bounds and automorphisms",
+        "authors": [
+          "Lin, Ying",
+          "Lindstrom, Scott B.",
+          "Lourenço, Bruno F.",
+          "Pong, Ting Kei"
+        ],
+        "arxiv_id": "2211.16142",
+        "version": "v3",
+        "journal": "SIAM Journal on Optimization",
+        "abstract_url": "https://arxiv.org/abs/2211.16142v3",
+        "pdf_url": "https://arxiv.org/pdf/2211.16142v3",
+        "doi": "10.1137/22M1542921"
+      },
+      "counts": {
+        "nodes": 85,
+        "edges": 196
+      },
+      "url": "data/records/2211.16142v3.json"
+    },
+    {
+      "record_id": "2210.04448v4",
+      "paper": {
+        "title": "Strong Variational Sufficiency for Nonlinear Semidefinite Programming and its Implications",
+        "authors": [
+          "Wang, Shiwei",
+          "Ding, Chao",
+          "Zhang, Yangjing",
+          "Zhao, Xinyuan"
+        ],
+        "arxiv_id": "2210.04448",
+        "version": "v4",
+        "journal": "SIAM Journal on Optimization",
+        "abstract_url": "https://arxiv.org/abs/2210.04448v4",
+        "pdf_url": "https://arxiv.org/pdf/2210.04448v4",
+        "doi": "10.1137/22M1530161"
+      },
+      "counts": {
+        "nodes": 62,
+        "edges": 129
+      },
+      "url": "data/records/2210.04448v4.json"
+    },
+    {
+      "record_id": "2209.13326v2",
+      "paper": {
+        "title": "Exact augmented Lagrangian duality for mixed integer convex optimization",
+        "authors": [
+          "Bhardwaj, Avinash",
+          "Narayanan, Vishnu",
+          "Pathapati, Abhishek"
+        ],
+        "arxiv_id": "2209.13326",
+        "version": "v2",
+        "journal": "SIAM Journal on Optimization",
+        "abstract_url": "https://arxiv.org/abs/2209.13326v2",
+        "pdf_url": "https://arxiv.org/pdf/2209.13326v2",
+        "doi": "10.1137/22M1526204"
+      },
+      "counts": {
+        "nodes": 78,
+        "edges": 145
+      },
+      "url": "data/records/2209.13326v2.json"
+    },
+    {
+      "record_id": "2208.13933v2",
+      "paper": {
+        "title": "Using Taylor-Approximated Gradients to Improve the Frank-Wolfe Method for Empirical Risk Minimization",
+        "authors": [
+          "Xiong, Zikai",
+          "Freund, Robert M."
+        ],
+        "arxiv_id": "2208.13933",
+        "version": "v2",
+        "journal": "SIAM Journal on Optimization",
+        "abstract_url": "https://arxiv.org/abs/2208.13933v2",
+        "pdf_url": "https://arxiv.org/pdf/2208.13933v2",
+        "doi": "10.1137/22M1519286"
+      },
+      "counts": {
+        "nodes": 66,
+        "edges": 145
+      },
+      "url": "data/records/2208.13933v2.json"
+    },
+    {
+      "record_id": "2207.06452v1",
+      "paper": {
+        "title": "Stochastic trust-region algorithm in random subspaces with convergence and expected complexity analyses",
+        "authors": [
+          "Dzahini, Kwassi Joseph",
+          "Wild, Stefan M."
+        ],
+        "arxiv_id": "2207.06452",
+        "version": "v1",
+        "journal": "SIAM Journal on Optimization",
+        "abstract_url": "https://arxiv.org/abs/2207.06452v1",
+        "pdf_url": "https://arxiv.org/pdf/2207.06452v1",
+        "doi": "10.1137/22M1524072"
+      },
+      "counts": {
+        "nodes": 96,
+        "edges": 206
+      },
+      "url": "data/records/2207.06452v1.json"
+    },
+    {
+      "record_id": "2205.12772v2",
+      "paper": {
+        "title": "A systematic approach to Lyapunov analyses of continuous-time models in convex optimization",
+        "authors": [
+          "Moucer, Céline",
+          "Taylor, Adrien",
+          "Bach, Francis"
+        ],
+        "arxiv_id": "2205.12772",
+        "version": "v2",
+        "journal": "SIAM Journal on Optimization",
+        "abstract_url": "https://arxiv.org/abs/2205.12772v2",
+        "pdf_url": "https://arxiv.org/pdf/2205.12772v2",
+        "doi": "10.1137/22M1498486"
+      },
+      "counts": {
+        "nodes": 55,
+        "edges": 83
+      },
+      "url": "data/records/2205.12772v2.json"
+    },
+    {
+      "record_id": "1706.05681v2",
+      "paper": {
+        "title": "On the convergence of mirror descent beyond stochastic convex programming",
+        "authors": [
+          "Zhengyuan Zhou",
+          "Panayotis Mertikopoulos",
+          "Nicholas Bambos",
+          "Stephen Boyd",
+          "Peter Glynn"
+        ],
+        "arxiv_id": "1706.05681",
+        "version": "v2",
+        "journal": "SIAM Journal on Optimization",
+        "doi": "10.1137/17m1134925",
+        "abstract_url": "https://arxiv.org/abs/1706.05681v2",
+        "pdf_url": "https://arxiv.org/pdf/1706.05681v2"
+      },
+      "counts": {
+        "nodes": 47,
+        "edges": 105
+      },
+      "url": "data/records/1706.05681v2.json"
+    },
+    {
+      "record_id": "1709.05747v4",
+      "paper": {
+        "title": "Douglas-Rachford splitting and ADMM for nonconvex optimization: tight convergence results",
+        "authors": [
+          "Andreas Themelis",
+          "Panagiotis Patrinos"
+        ],
+        "arxiv_id": "1709.05747",
+        "version": "v4",
+        "journal": "SIAM Journal on Optimization",
+        "doi": "10.1137/18m1163993",
+        "abstract_url": "https://arxiv.org/abs/1709.05747v4",
+        "pdf_url": "https://arxiv.org/pdf/1709.05747v4"
+      },
+      "counts": {
+        "nodes": 81,
+        "edges": 181
+      },
+      "url": "data/records/1709.05747v4.json"
+    },
+    {
+      "record_id": "1710.05509v3",
+      "paper": {
+        "title": "On stochastic and deterministic quasi-Newton methods for non-Strongly convex optimization: Asymptotic convergence and rate analysis",
+        "authors": [
+          "Farzad Yousefian",
+          "Angelia Nedić",
+          "Uday Shanbhag"
+        ],
+        "arxiv_id": "1710.05509",
+        "version": "v3",
+        "journal": "SIAM Journal on Optimization",
+        "doi": "10.1137/17m1152474",
+        "abstract_url": "https://arxiv.org/abs/1710.05509v3",
+        "pdf_url": "https://arxiv.org/pdf/1710.05509v3"
+      },
+      "counts": {
+        "nodes": 96,
+        "edges": 215
+      },
+      "url": "data/records/1710.05509v3.json"
+    },
+    {
+      "record_id": "1711.05812v2",
+      "paper": {
+        "title": "Iteration complexity of inexact augmented Lagrangian methods for constrained convex programming",
+        "authors": [
+          "Yangyang Xu"
+        ],
+        "arxiv_id": "1711.05812",
+        "version": "v2",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-019-01425-9",
+        "abstract_url": "https://arxiv.org/abs/1711.05812v2",
+        "pdf_url": "https://arxiv.org/pdf/1711.05812v2"
+      },
+      "counts": {
+        "nodes": 69,
+        "edges": 117
+      },
+      "url": "data/records/1711.05812v2.json"
+    },
+    {
+      "record_id": "1803.02924v4",
+      "paper": {
+        "title": "A Newton-CG Algorithm with Complexity Guarantees for Smooth Unconstrained Optimization",
+        "authors": [
+          "Clément W. Royer",
+          "Michael O'Neill",
+          "Stephen J. Wright"
+        ],
+        "arxiv_id": "1803.02924",
+        "version": "v4",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-019-01362-7",
+        "abstract_url": "https://arxiv.org/abs/1803.02924v4",
+        "pdf_url": "https://arxiv.org/pdf/1803.02924v4"
+      },
+      "counts": {
+        "nodes": 82,
+        "edges": 176
+      },
+      "url": "data/records/1803.02924v4.json"
+    },
+    {
+      "record_id": "1803.09941v5",
+      "paper": {
+        "title": "Iteration complexity of first-order augmented Lagrangian methods for convex conic programming",
+        "authors": [
+          "Zhaosong Lu",
+          "Zirui Zhou"
+        ],
+        "arxiv_id": "1803.09941",
+        "version": "v5",
+        "journal": "SIAM Journal on Optimization",
+        "doi": "10.1137/21m1403837",
+        "abstract_url": "https://arxiv.org/abs/1803.09941v5",
+        "pdf_url": "https://arxiv.org/pdf/1803.09941v5"
+      },
+      "counts": {
+        "nodes": 41,
+        "edges": 73
+      },
+      "url": "data/records/1803.09941v5.json"
+    },
+    {
+      "record_id": "1807.00387v3",
+      "paper": {
+        "title": "Convergence rates for an inertial algorithm of gradient type associated to a smooth nonconvex minimization",
+        "authors": [
+          "Szilárd Csaba László"
+        ],
+        "arxiv_id": "1807.00387",
+        "version": "v3",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-020-01534-w",
+        "abstract_url": "https://arxiv.org/abs/1807.00387v3",
+        "pdf_url": "https://arxiv.org/pdf/1807.00387v3"
+      },
+      "counts": {
+        "nodes": 65,
+        "edges": 157
+      },
+      "url": "data/records/1807.00387v3.json"
+    },
+    {
+      "record_id": "1807.07680v5",
+      "paper": {
+        "title": "Generalized Stochastic Frank-Wolfe Algorithm with Stochastic \"Substitute\" Gradient for Structured Convex Optimization",
+        "authors": [
+          "Haihao Lu",
+          "Robert M. Freund"
+        ],
+        "arxiv_id": "1807.07680",
+        "version": "v5",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-020-01480-7",
+        "abstract_url": "https://arxiv.org/abs/1807.07680v5",
+        "pdf_url": "https://arxiv.org/pdf/1807.07680v5"
+      },
+      "counts": {
+        "nodes": 59,
+        "edges": 116
+      },
+      "url": "data/records/1807.07680v5.json"
+    },
+    {
+      "record_id": "1807.09146v3",
+      "paper": {
+        "title": "Inexact Variable Metric Stochastic Block-Coordinate Descent for Regularized Optimization",
+        "authors": [
+          "Ching-pei Lee",
+          "Stephen J. Wright"
+        ],
+        "arxiv_id": "1807.09146",
+        "version": "v3",
+        "journal": "Journal of Optimization Theory and Applications",
+        "doi": "10.1007/s10957-020-01639-4",
+        "abstract_url": "https://arxiv.org/abs/1807.09146v3",
+        "pdf_url": "https://arxiv.org/pdf/1807.09146v3"
+      },
+      "counts": {
+        "nodes": 47,
+        "edges": 100
+      },
+      "url": "data/records/1807.09146v3.json"
+    },
+    {
+      "record_id": "1810.02263v4",
+      "paper": {
+        "title": "Convergence and Dynamical Behavior of the ADAM Algorithm for Non-Convex Stochastic Optimization",
+        "authors": [
+          "Anas Barakat",
+          "Pascal Bianchi"
+        ],
+        "arxiv_id": "1810.02263",
+        "version": "v4",
+        "journal": "SIAM Journal on Optimization",
+        "doi": "10.1137/19m1263443",
+        "abstract_url": "https://arxiv.org/abs/1810.02263v4",
+        "pdf_url": "https://arxiv.org/pdf/1810.02263v4"
+      },
+      "counts": {
+        "nodes": 45,
+        "edges": 95
+      },
+      "url": "data/records/1810.02263v4.json"
+    },
+    {
+      "record_id": "1902.01644v2",
+      "paper": {
+        "title": "On the Convergence of Projected-Gradient Methods with Low-Rank Projections for Smooth Convex Minimization over Trace-Norm Balls and Related Problems",
+        "authors": [
+          "Dan Garber"
+        ],
+        "arxiv_id": "1902.01644",
+        "version": "v2",
+        "journal": "SIAM Journal on Optimization",
+        "doi": "10.1137/18m1233170",
+        "abstract_url": "https://arxiv.org/abs/1902.01644v2",
+        "pdf_url": "https://arxiv.org/pdf/1902.01644v2"
+      },
+      "counts": {
+        "nodes": 30,
+        "edges": 60
+      },
+      "url": "data/records/1902.01644v2.json"
+    },
+    {
+      "record_id": "1905.11957v2",
+      "paper": {
+        "title": "Sample Complexity of Sample Average Approximation for Conditional Stochastic Optimization",
+        "authors": [
+          "Yifan Hu",
+          "Xin Chen",
+          "Niao He"
+        ],
+        "arxiv_id": "1905.11957",
+        "version": "v2",
+        "journal": "SIAM Journal on Optimization",
+        "doi": "10.1137/19m1284865",
+        "abstract_url": "https://arxiv.org/abs/1905.11957v2",
+        "pdf_url": "https://arxiv.org/pdf/1905.11957v2"
+      },
+      "counts": {
+        "nodes": 34,
+        "edges": 73
+      },
+      "url": "data/records/1905.11957v2.json"
+    },
+    {
+      "record_id": "1907.03132v1",
+      "paper": {
+        "title": "On the Convergence of Stochastic Gradient Descent for Nonlinear Ill-Posed Problems",
+        "authors": [
+          "Bangti Jin",
+          "Zehui Zhou",
+          "Jun Zou"
+        ],
+        "arxiv_id": "1907.03132",
+        "version": "v1",
+        "journal": "SIAM Journal on Optimization",
+        "doi": "10.1137/19m1271798",
+        "abstract_url": "https://arxiv.org/abs/1907.03132v1",
+        "pdf_url": "https://arxiv.org/pdf/1907.03132v1"
+      },
+      "counts": {
+        "nodes": 53,
+        "edges": 104
+      },
+      "url": "data/records/1907.03132v1.json"
+    },
+    {
+      "record_id": "1907.10300v2",
+      "paper": {
+        "title": "Sparse Optimization on Measures with Over-parameterized Gradient Descent",
+        "authors": [
+          "Lenaic Chizat"
+        ],
+        "arxiv_id": "1907.10300",
+        "version": "v2",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-021-01636-z",
+        "abstract_url": "https://arxiv.org/abs/1907.10300v2",
+        "pdf_url": "https://arxiv.org/pdf/1907.10300v2"
+      },
+      "counts": {
+        "nodes": 97,
+        "edges": 192
+      },
+      "url": "data/records/1907.10300v2.json"
+    },
+    {
+      "record_id": "1910.09373v1",
+      "paper": {
+        "title": "A Stochastic Extra-Step Quasi-Newton Method for Nonsmooth Nonconvex Optimization",
+        "authors": [
+          "Minghan Yang",
+          "Andre Milzarek",
+          "Zaiwen Wen",
+          "Tong Zhang"
+        ],
+        "arxiv_id": "1910.09373",
+        "version": "v1",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-021-01629-y",
+        "abstract_url": "https://arxiv.org/abs/1910.09373v1",
+        "pdf_url": "https://arxiv.org/pdf/1910.09373v1"
+      },
+      "counts": {
+        "nodes": 33,
+        "edges": 58
+      },
+      "url": "data/records/1910.09373v1.json"
+    },
+    {
+      "record_id": "1912.12004v2",
+      "paper": {
+        "title": "Nearly optimal first-order methods for convex optimization under gradient norm measure: An adaptive regularization approach",
+        "authors": [
+          "Masaru Ito",
+          "Mituhiro Fukuda"
+        ],
+        "arxiv_id": "1912.12004",
+        "version": "v2",
+        "journal": "Journal of Optimization Theory and Applications",
+        "doi": "10.1007/s10957-020-01806-7",
+        "abstract_url": "https://arxiv.org/abs/1912.12004v2",
+        "pdf_url": "https://arxiv.org/pdf/1912.12004v2"
+      },
+      "counts": {
+        "nodes": 119,
+        "edges": 253
+      },
+      "url": "data/records/1912.12004v2.json"
+    },
+    {
+      "record_id": "2002.05545v3",
+      "paper": {
+        "title": "Sampling and Update Frequencies in Proximal Variance-Reduced Stochastic Gradient Methods",
+        "authors": [
+          "Martin Morin",
+          "Pontus Giselsson"
+        ],
+        "arxiv_id": "2002.05545",
+        "version": "v3",
+        "journal": "Journal of Optimization Theory and Applications",
+        "doi": "10.1007/s10957-025-02671-y",
+        "abstract_url": "https://arxiv.org/abs/2002.05545v3",
+        "pdf_url": "https://arxiv.org/pdf/2002.05545v3"
+      },
+      "counts": {
+        "nodes": 49,
+        "edges": 92
+      },
+      "url": "data/records/2002.05545v3.json"
+    },
+    {
+      "record_id": "2002.06309v1",
+      "paper": {
+        "title": "Stochastic optimization over proximally smooth sets",
+        "authors": [
+          "Damek Davis",
+          "Dmitriy Drusvyatskiy",
+          "Zhan Shi"
+        ],
+        "arxiv_id": "2002.06309",
+        "version": "v1",
+        "journal": "SIAM Journal on Optimization",
+        "doi": "10.1137/20m1320225",
+        "abstract_url": "https://arxiv.org/abs/2002.06309v1",
+        "pdf_url": "https://arxiv.org/pdf/2002.06309v1"
+      },
+      "counts": {
+        "nodes": 36,
+        "edges": 74
+      },
+      "url": "data/records/2002.06309v1.json"
+    },
+    {
+      "record_id": "2003.01666v2",
+      "paper": {
+        "title": "General convergence analysis of stochastic first order methods for composite optimization",
+        "authors": [
+          "Ion Necoara"
+        ],
+        "arxiv_id": "2003.01666",
+        "version": "v2",
+        "journal": "Journal of Optimization Theory and Applications",
+        "doi": "10.1007/s10957-021-01821-2",
+        "abstract_url": "https://arxiv.org/abs/2003.01666v2",
+        "pdf_url": "https://arxiv.org/pdf/2003.01666v2"
+      },
+      "counts": {
+        "nodes": 39,
+        "edges": 76
+      },
+      "url": "data/records/2003.01666v2.json"
+    },
+    {
+      "record_id": "2004.00475v2",
+      "paper": {
+        "title": "Stopping Criteria for, and Strong Convergence of, Stochastic Gradient Descent on Bottou-Curtis-Nocedal Functions",
+        "authors": [
+          "Vivak Patel"
+        ],
+        "arxiv_id": "2004.00475",
+        "version": "v2",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-021-01710-6",
+        "abstract_url": "https://arxiv.org/abs/2004.00475v2",
+        "pdf_url": "https://arxiv.org/pdf/2004.00475v2"
+      },
+      "counts": {
+        "nodes": 55,
+        "edges": 116
+      },
+      "url": "data/records/2004.00475v2.json"
+    },
+    {
+      "record_id": "2004.04357v2",
+      "paper": {
+        "title": "Stochastic Variance-Reduced Prox-Linear Algorithms for Nonconvex Composite Optimization",
+        "authors": [
+          "Junyu Zhang",
+          "Lin Xiao"
+        ],
+        "arxiv_id": "2004.04357",
+        "version": "v2",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-021-01709-z",
+        "abstract_url": "https://arxiv.org/abs/2004.04357v2",
+        "pdf_url": "https://arxiv.org/pdf/2004.04357v2"
+      },
+      "counts": {
+        "nodes": 69,
+        "edges": 151
+      },
+      "url": "data/records/2004.04357v2.json"
+    },
+    {
+      "record_id": "2006.00425v3",
+      "paper": {
+        "title": "Momentum-based variance-reduced proximal stochastic gradient method for composite nonconvex stochastic optimization",
+        "authors": [
+          "Yangyang Xu",
+          "Yibo Xu"
+        ],
+        "arxiv_id": "2006.00425",
+        "version": "v3",
+        "journal": "Journal of Optimization Theory and Applications",
+        "doi": "10.1007/s10957-022-02132-w",
+        "abstract_url": "https://arxiv.org/abs/2006.00425v3",
+        "pdf_url": "https://arxiv.org/pdf/2006.00425v3"
+      },
+      "counts": {
+        "nodes": 57,
+        "edges": 130
+      },
+      "url": "data/records/2006.00425v3.json"
+    },
+    {
+      "record_id": "2006.08667v3",
+      "paper": {
+        "title": "The Landscape of the Proximal Point Method for Nonconvex-Nonconcave Minimax Optimization",
+        "authors": [
+          "Benjamin Grimmer",
+          "Haihao Lu",
+          "Pratik Worah",
+          "Vahab Mirrokni"
+        ],
+        "arxiv_id": "2006.08667",
+        "version": "v3",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-022-01910-8",
+        "abstract_url": "https://arxiv.org/abs/2006.08667v3",
+        "pdf_url": "https://arxiv.org/pdf/2006.08667v3"
+      },
+      "counts": {
+        "nodes": 71,
+        "edges": 139
+      },
+      "url": "data/records/2006.08667v3.json"
+    },
+    {
+      "record_id": "2006.11573v1",
+      "paper": {
+        "title": "Unified Analysis of Stochastic Gradient Methods for Composite Convex and Smooth Optimization",
+        "authors": [
+          "Ahmed Khaled",
+          "Othmane Sebbouh",
+          "Nicolas Loizou",
+          "Robert M. Gower",
+          "Peter Richtárik"
+        ],
+        "arxiv_id": "2006.11573",
+        "version": "v1",
+        "journal": "Journal of Optimization Theory and Applications",
+        "doi": "10.1007/s10957-023-02297-y",
+        "abstract_url": "https://arxiv.org/abs/2006.11573v1",
+        "pdf_url": "https://arxiv.org/pdf/2006.11573v1"
+      },
+      "counts": {
+        "nodes": 49,
+        "edges": 84
+      },
+      "url": "data/records/2006.11573v1.json"
+    },
+    {
+      "record_id": "2007.13605v4",
+      "paper": {
+        "title": "Alternating proximal-gradient steps for (stochastic) nonconvex-concave minimax problems",
+        "authors": [
+          "Radu Ioan Boţ",
+          "Axel Böhm"
+        ],
+        "arxiv_id": "2007.13605",
+        "version": "v4",
+        "journal": "SIAM Journal on Optimization",
+        "doi": "10.1137/21m1465470",
+        "abstract_url": "https://arxiv.org/abs/2007.13605v4",
+        "pdf_url": "https://arxiv.org/pdf/2007.13605v4"
+      },
+      "counts": {
+        "nodes": 95,
+        "edges": 212
+      },
+      "url": "data/records/2007.13605v4.json"
+    },
+    {
+      "record_id": "2007.15845v2",
+      "paper": {
+        "title": "A Method with Convergence Rates for Optimization Problems with Variational Inequality Constraints",
+        "authors": [
+          "Harshal D. Kaushik",
+          "Farzad Yousefian"
+        ],
+        "arxiv_id": "2007.15845",
+        "version": "v2",
+        "journal": "SIAM Journal on Optimization",
+        "doi": "10.1137/20m1357378",
+        "abstract_url": "https://arxiv.org/abs/2007.15845v2",
+        "pdf_url": "https://arxiv.org/pdf/2007.15845v2"
+      },
+      "counts": {
+        "nodes": 77,
+        "edges": 170
+      },
+      "url": "data/records/2007.15845v2.json"
+    },
+    {
+      "record_id": "2009.04014v2",
+      "paper": {
+        "title": "Multi-Block Nonconvex Nonsmooth Proximal ADMM: Convergence and Rates under Kurdyka-Łojasiewicz Property",
+        "authors": [
+          "Maryam Yashtini"
+        ],
+        "arxiv_id": "2009.04014",
+        "version": "v2",
+        "journal": "Journal of Optimization Theory and Applications",
+        "doi": "10.1007/s10957-021-01919-7",
+        "abstract_url": "https://arxiv.org/abs/2009.04014v2",
+        "pdf_url": "https://arxiv.org/pdf/2009.04014v2"
+      },
+      "counts": {
+        "nodes": 96,
+        "edges": 235
+      },
+      "url": "data/records/2009.04014v2.json"
+    },
+    {
+      "record_id": "2010.06759v4",
+      "paper": {
+        "title": "On Distributionally Robust Multistage Convex Optimization: New Algorithms and Complexity Analysis",
+        "authors": [
+          "Shixuan Zhang",
+          "Xu Andy Sun"
+        ],
+        "arxiv_id": "2010.06759",
+        "version": "v4",
+        "journal": "SIAM Journal on Optimization",
+        "doi": "10.1137/25m1761690",
+        "abstract_url": "https://arxiv.org/abs/2010.06759v4",
+        "pdf_url": "https://arxiv.org/pdf/2010.06759v4"
+      },
+      "counts": {
+        "nodes": 31,
+        "edges": 57
+      },
+      "url": "data/records/2010.06759v4.json"
+    },
+    {
+      "record_id": "2010.11379v2",
+      "paper": {
+        "title": "Local Convergence Analysis of Augmented Lagrangian Methods for Piecewise Linear-Quadratic Composite Optimization Problems",
+        "authors": [
+          "Nguyen T. V. Hang",
+          "M. Ebrahim Sarabi"
+        ],
+        "arxiv_id": "2010.11379",
+        "version": "v2",
+        "journal": "SIAM Journal on Optimization",
+        "doi": "10.1137/20m1375188",
+        "abstract_url": "https://arxiv.org/abs/2010.11379v2",
+        "pdf_url": "https://arxiv.org/pdf/2010.11379v2"
+      },
+      "counts": {
+        "nodes": 118,
+        "edges": 342
+      },
+      "url": "data/records/2010.11379v2.json"
+    },
+    {
+      "record_id": "2010.14314v4",
+      "paper": {
+        "title": "Faster Lagrangian-Based Methods in Convex Optimization",
+        "authors": [
+          "Shoham Sabach",
+          "Marc Teboulle"
+        ],
+        "arxiv_id": "2010.14314",
+        "version": "v4",
+        "journal": "SIAM Journal on Optimization",
+        "doi": "10.1137/20m1375358",
+        "abstract_url": "https://arxiv.org/abs/2010.14314v4",
+        "pdf_url": "https://arxiv.org/pdf/2010.14314v4"
+      },
+      "counts": {
+        "nodes": 41,
+        "edges": 85
+      },
+      "url": "data/records/2010.14314v4.json"
+    },
+    {
+      "record_id": "2011.08166v2",
+      "paper": {
+        "title": "A Globally Convergent Proximal Newton-Type Method in Nonsmooth Convex Optimization",
+        "authors": [
+          "Boris S. Mordukhovich",
+          "Xiaoming Yuan",
+          "Shangzhi Zeng",
+          "Jin Zhang"
+        ],
+        "arxiv_id": "2011.08166",
+        "version": "v2",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-022-01797-5",
+        "abstract_url": "https://arxiv.org/abs/2011.08166v2",
+        "pdf_url": "https://arxiv.org/pdf/2011.08166v2"
+      },
+      "counts": {
+        "nodes": 35,
+        "edges": 77
+      },
+      "url": "data/records/2011.08166v2.json"
+    },
+    {
+      "record_id": "2012.12936v4",
+      "paper": {
+        "title": "Newton acceleration on manifolds identified by proximal-gradient methods",
+        "authors": [
+          "Gilles Bareilles",
+          "Franck Iutzeler",
+          "Jérôme Malick"
+        ],
+        "arxiv_id": "2012.12936",
+        "version": "v4",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-022-01873-w",
+        "abstract_url": "https://arxiv.org/abs/2012.12936v4",
+        "pdf_url": "https://arxiv.org/pdf/2012.12936v4"
+      },
+      "counts": {
+        "nodes": 97,
+        "edges": 187
+      },
+      "url": "data/records/2012.12936v4.json"
+    },
+    {
+      "record_id": "2101.01323v2",
+      "paper": {
+        "title": "On the global convergence of randomized coordinate gradient descent for non-convex optimization",
+        "authors": [
+          "Ziang Chen",
+          "Yingzhou Li",
+          "Jianfeng Lu"
+        ],
+        "arxiv_id": "2101.01323",
+        "version": "v2",
+        "journal": "SIAM Journal on Optimization",
+        "doi": "10.1137/21m1460375",
+        "abstract_url": "https://arxiv.org/abs/2101.01323v2",
+        "pdf_url": "https://arxiv.org/pdf/2101.01323v2"
+      },
+      "counts": {
+        "nodes": 84,
+        "edges": 199
+      },
+      "url": "data/records/2101.01323v2.json"
+    },
+    {
+      "record_id": "2101.06504v2",
+      "paper": {
+        "title": "Convex Generalized Nash Equilibrium Problems and Polynomial Optimization",
+        "authors": [
+          "Jiawang Nie",
+          "Xindong Tang"
+        ],
+        "arxiv_id": "2101.06504",
+        "version": "v2",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-021-01739-7",
+        "abstract_url": "https://arxiv.org/abs/2101.06504v2",
+        "pdf_url": "https://arxiv.org/pdf/2101.06504v2"
+      },
+      "counts": {
+        "nodes": 32,
+        "edges": 59
+      },
+      "url": "data/records/2101.06504v2.json"
+    },
+    {
+      "record_id": "2102.00135v6",
+      "paper": {
+        "title": "Policy Mirror Descent for Reinforcement Learning: Linear Convergence, New Sampling Complexity, and Generalized Problem Classes",
+        "authors": [
+          "Guanghui Lan"
+        ],
+        "arxiv_id": "2102.00135",
+        "version": "v6",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-022-01816-5",
+        "abstract_url": "https://arxiv.org/abs/2102.00135v6",
+        "pdf_url": "https://arxiv.org/pdf/2102.00135v6"
+      },
+      "counts": {
+        "nodes": 71,
+        "edges": 122
+      },
+      "url": "data/records/2102.00135v6.json"
+    },
+    {
+      "record_id": "2103.02855v4",
+      "paper": {
+        "title": "A Semismooth Newton based Augmented Lagrangian Method for Nonsmooth Optimization on Matrix Manifolds",
+        "authors": [
+          "Yuhao Zhou",
+          "Chenglong Bao",
+          "Chao Ding",
+          "Jun Zhu"
+        ],
+        "arxiv_id": "2103.02855",
+        "version": "v4",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-022-01898-1",
+        "abstract_url": "https://arxiv.org/abs/2103.02855v4",
+        "pdf_url": "https://arxiv.org/pdf/2103.02855v4"
+      },
+      "counts": {
+        "nodes": 39,
+        "edges": 89
+      },
+      "url": "data/records/2103.02855v4.json"
+    },
+    {
+      "record_id": "2103.11026v1",
+      "paper": {
+        "title": "Universal Conditional Gradient Sliding for Convex Optimization",
+        "authors": [
+          "Yuyuan Ouyang",
+          "Trevor Squires"
+        ],
+        "arxiv_id": "2103.11026",
+        "version": "v1",
+        "journal": "SIAM Journal on Optimization",
+        "doi": "10.1137/21m1406234",
+        "abstract_url": "https://arxiv.org/abs/2103.11026v1",
+        "pdf_url": "https://arxiv.org/pdf/2103.11026v1"
+      },
+      "counts": {
+        "nodes": 61,
+        "edges": 122
+      },
+      "url": "data/records/2103.11026v1.json"
+    },
+    {
+      "record_id": "2103.14987v4",
+      "paper": {
+        "title": "Quadratic Convergence of Smoothing Newton's Method for 0/1 Loss Optimization",
+        "authors": [
+          "Shenglong Zhou",
+          "Lili Pan",
+          "Naihua Xiu",
+          "Houduo Qi"
+        ],
+        "arxiv_id": "2103.14987",
+        "version": "v4",
+        "journal": "SIAM Journal on Optimization",
+        "doi": "10.1137/21m1409445",
+        "abstract_url": "https://arxiv.org/abs/2103.14987v4",
+        "pdf_url": "https://arxiv.org/pdf/2103.14987v4"
+      },
+      "counts": {
+        "nodes": 79,
+        "edges": 192
+      },
+      "url": "data/records/2103.14987v4.json"
+    },
+    {
+      "record_id": "2105.09716v1",
+      "paper": {
+        "title": "A Stochastic Composite Augmented Lagrangian Method For Reinforcement Learning",
+        "authors": [
+          "Yongfeng Li",
+          "Mingming Zhao",
+          "Weijie Chen",
+          "Zaiwen Wen"
+        ],
+        "arxiv_id": "2105.09716",
+        "version": "v1",
+        "journal": "SIAM Journal on Optimization",
+        "doi": "10.1137/21m1421726",
+        "abstract_url": "https://arxiv.org/abs/2105.09716v1",
+        "pdf_url": "https://arxiv.org/pdf/2105.09716v1"
+      },
+      "counts": {
+        "nodes": 65,
+        "edges": 149
+      },
+      "url": "data/records/2105.09716v1.json"
+    },
+    {
+      "record_id": "2105.14033v2",
+      "paper": {
+        "title": "An Inexact Projected Gradient Method with Rounding and Lifting by Nonlinear Programming for Solving Rank-One Semidefinite Relaxation of Polynomial Optimization",
+        "authors": [
+          "Heng Yang",
+          "Ling Liang",
+          "Luca Carlone",
+          "Kim-Chuan Toh"
+        ],
+        "arxiv_id": "2105.14033",
+        "version": "v2",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-022-01912-6",
+        "abstract_url": "https://arxiv.org/abs/2105.14033v2",
+        "pdf_url": "https://arxiv.org/pdf/2105.14033v2"
+      },
+      "counts": {
+        "nodes": 34,
+        "edges": 65
+      },
+      "url": "data/records/2105.14033v2.json"
+    },
+    {
+      "record_id": "2106.08020v3",
+      "paper": {
+        "title": "A note on the optimal convergence rate of descent methods with fixed step sizes for smooth strongly convex functions",
+        "authors": [
+          "André Uschmajew",
+          "Bart Vandereycken"
+        ],
+        "arxiv_id": "2106.08020",
+        "version": "v3",
+        "journal": "Journal of Optimization Theory and Applications",
+        "doi": "10.1007/s10957-022-02032-z",
+        "abstract_url": "https://arxiv.org/abs/2106.08020v3",
+        "pdf_url": "https://arxiv.org/pdf/2106.08020v3"
+      },
+      "counts": {
+        "nodes": 26,
+        "edges": 35
+      },
+      "url": "data/records/2106.08020v3.json"
+    },
+    {
+      "record_id": "2106.09286v1",
+      "paper": {
+        "title": "Sub-linear convergence of a tamed stochastic gradient descent method in Hilbert space",
+        "authors": [
+          "Monika Eisenmann",
+          "Tony Stillfjord"
+        ],
+        "arxiv_id": "2106.09286",
+        "version": "v1",
+        "journal": "SIAM Journal on Optimization",
+        "doi": "10.1137/21m1427450",
+        "abstract_url": "https://arxiv.org/abs/2106.09286v1",
+        "pdf_url": "https://arxiv.org/pdf/2106.09286v1"
+      },
+      "counts": {
+        "nodes": 72,
+        "edges": 175
+      },
+      "url": "data/records/2106.09286v1.json"
+    },
+    {
+      "record_id": "2106.09340v2",
+      "paper": {
+        "title": "A trust region-type normal map-based semismooth Newton method for nonsmooth nonconvex composite optimization",
+        "authors": [
+          "Wenqing Ouyang",
+          "Andre Milzarek"
+        ],
+        "arxiv_id": "2106.09340",
+        "version": "v2",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-024-02110-2",
+        "abstract_url": "https://arxiv.org/abs/2106.09340v2",
+        "pdf_url": "https://arxiv.org/pdf/2106.09340v2"
+      },
+      "counts": {
+        "nodes": 56,
+        "edges": 130
+      },
+      "url": "data/records/2106.09340v2.json"
+    },
+    {
+      "record_id": "2108.02129v2",
+      "paper": {
+        "title": "Convergence results of a nested decentralized gradient method for non-strongly convex problems",
+        "authors": [
+          "Woocheol Choi",
+          "Doheon Kim",
+          "Seok-Bae Yun"
+        ],
+        "arxiv_id": "2108.02129",
+        "version": "v2",
+        "journal": "Journal of Optimization Theory and Applications",
+        "doi": "10.1007/s10957-022-02069-0",
+        "abstract_url": "https://arxiv.org/abs/2108.02129v2",
+        "pdf_url": "https://arxiv.org/pdf/2108.02129v2"
+      },
+      "counts": {
+        "nodes": 49,
+        "edges": 99
+      },
+      "url": "data/records/2108.02129v2.json"
+    },
+    {
+      "record_id": "2110.03079v2",
+      "paper": {
+        "title": "Convex relaxations of integral variational problems: pointwise dual relaxation and sum-of-squares optimization",
+        "authors": [
+          "Alexander Chernyavsky",
+          "Jason J. Bramburger",
+          "Giovanni Fantuzzi",
+          "David Goluskin"
+        ],
+        "arxiv_id": "2110.03079",
+        "version": "v2",
+        "journal": "SIAM Journal on Optimization",
+        "doi": "10.1137/21m1455127",
+        "abstract_url": "https://arxiv.org/abs/2110.03079v2",
+        "pdf_url": "https://arxiv.org/pdf/2110.03079v2"
+      },
+      "counts": {
+        "nodes": 27,
+        "edges": 52
+      },
+      "url": "data/records/2110.03079v2.json"
+    },
+    {
+      "record_id": "2111.15645v5",
+      "paper": {
+        "title": "Survey Descent: A Multipoint Generalization of Gradient Descent for Nonsmooth Optimization",
+        "authors": [
+          "X. Y. Han",
+          "Adrian S. Lewis"
+        ],
+        "arxiv_id": "2111.15645",
+        "version": "v5",
+        "journal": "SIAM Journal on Optimization",
+        "doi": "10.1137/21m1468450",
+        "abstract_url": "https://arxiv.org/abs/2111.15645v5",
+        "pdf_url": "https://arxiv.org/pdf/2111.15645v5"
+      },
+      "counts": {
+        "nodes": 114,
+        "edges": 231
+      },
+      "url": "data/records/2111.15645v5.json"
+    },
+    {
+      "record_id": "2112.01798v2",
+      "paper": {
+        "title": "Convergence Properties of Monotone and Nonmonotone Proximal Gradient Methods Revisited",
+        "authors": [
+          "Christian Kanzow",
+          "Patrick Mehlitz"
+        ],
+        "arxiv_id": "2112.01798",
+        "version": "v2",
+        "journal": "Journal of Optimization Theory and Applications",
+        "doi": "10.1007/s10957-022-02101-3",
+        "abstract_url": "https://arxiv.org/abs/2112.01798v2",
+        "pdf_url": "https://arxiv.org/pdf/2112.01798v2"
+      },
+      "counts": {
+        "nodes": 41,
+        "edges": 88
+      },
+      "url": "data/records/2112.01798v2.json"
+    },
+    {
+      "record_id": "2112.13000v2",
+      "paper": {
+        "title": "Proximal Gradient Algorithms under Local Lipschitz Gradient Continuity: A Convergence and Robustness Analysis of PANOC",
+        "authors": [
+          "Alberto De Marchi",
+          "Andreas Themelis"
+        ],
+        "arxiv_id": "2112.13000",
+        "version": "v2",
+        "journal": "Journal of Optimization Theory and Applications",
+        "doi": "10.1007/s10957-022-02048-5",
+        "abstract_url": "https://arxiv.org/abs/2112.13000v2",
+        "pdf_url": "https://arxiv.org/pdf/2112.13000v2"
+      },
+      "counts": {
+        "nodes": 38,
+        "edges": 87
+      },
+      "url": "data/records/2112.13000v2.json"
+    },
+    {
+      "record_id": "2202.07581v2",
+      "paper": {
+        "title": "Bayesian Stochastic Gradient Descent for Stochastic Optimization with Streaming Input Data",
+        "authors": [
+          "Tianyi Liu",
+          "Yifan Lin",
+          "Enlu Zhou"
+        ],
+        "arxiv_id": "2202.07581",
+        "version": "v2",
+        "journal": "SIAM Journal on Optimization",
+        "doi": "10.1137/22m1478951",
+        "abstract_url": "https://arxiv.org/abs/2202.07581v2",
+        "pdf_url": "https://arxiv.org/pdf/2202.07581v2"
+      },
+      "counts": {
+        "nodes": 38,
+        "edges": 63
+      },
+      "url": "data/records/2202.07581v2.json"
+    },
+    {
+      "record_id": "2203.05276v4",
+      "paper": {
+        "title": "Constrained composite optimization and augmented Lagrangian methods",
+        "authors": [
+          "Alberto De Marchi",
+          "Xiaoxi Jia",
+          "Christian Kanzow",
+          "Patrick Mehlitz"
+        ],
+        "arxiv_id": "2203.05276",
+        "version": "v4",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-022-01922-4",
+        "abstract_url": "https://arxiv.org/abs/2203.05276v4",
+        "pdf_url": "https://arxiv.org/pdf/2203.05276v4"
+      },
+      "counts": {
+        "nodes": 24,
+        "edges": 38
+      },
+      "url": "data/records/2203.05276v4.json"
+    },
+    {
+      "record_id": "2203.10015v2",
+      "paper": {
+        "title": "Second-order optimality conditions for general nonconvex optimization problems and variational analysis of disjunctive systems",
+        "authors": [
+          "Matus Benko",
+          "Helmut Gfrerer",
+          "Jane Ye",
+          "Jin Zhang",
+          "Jinchuan Zhou"
+        ],
+        "arxiv_id": "2203.10015",
+        "version": "v2",
+        "journal": "SIAM Journal on Optimization",
+        "doi": "10.1137/22m1484742",
+        "abstract_url": "https://arxiv.org/abs/2203.10015v2",
+        "pdf_url": "https://arxiv.org/pdf/2203.10015v2"
+      },
+      "counts": {
+        "nodes": 21,
+        "edges": 42
+      },
+      "url": "data/records/2203.10015v2.json"
+    },
+    {
+      "record_id": "2203.10605v2",
+      "paper": {
+        "title": "Convergence rates of the stochastic alternating algorithm for bi-objective optimization",
+        "authors": [
+          "Suyun Liu",
+          "Luis Nunes Vicente"
+        ],
+        "arxiv_id": "2203.10605",
+        "version": "v2",
+        "journal": "Journal of Optimization Theory and Applications",
+        "doi": "10.1007/s10957-023-02253-w",
+        "abstract_url": "https://arxiv.org/abs/2203.10605v2",
+        "pdf_url": "https://arxiv.org/pdf/2203.10605v2"
+      },
+      "counts": {
+        "nodes": 36,
+        "edges": 70
+      },
+      "url": "data/records/2203.10605v2.json"
+    },
+    {
+      "record_id": "2204.01806v2",
+      "paper": {
+        "title": "Inexact reduced gradient methods in nonconvex optimization",
+        "authors": [
+          "Pham Duy Khanh",
+          "Boris S. Mordukhovich",
+          "Dat Ba Tran"
+        ],
+        "arxiv_id": "2204.01806",
+        "version": "v2",
+        "journal": "Journal of Optimization Theory and Applications",
+        "doi": "10.1007/s10957-023-02319-9",
+        "abstract_url": "https://arxiv.org/abs/2204.01806v2",
+        "pdf_url": "https://arxiv.org/pdf/2204.01806v2"
+      },
+      "counts": {
+        "nodes": 96,
+        "edges": 210
+      },
+      "url": "data/records/2204.01806v2.json"
+    },
+    {
+      "record_id": "2204.09266v2",
+      "paper": {
+        "title": "Hessian Averaging in Stochastic Newton Methods Achieves Superlinear Convergence",
+        "authors": [
+          "Sen Na",
+          "Michał Dereziński",
+          "Michael W. Mahoney"
+        ],
+        "arxiv_id": "2204.09266",
+        "version": "v2",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-022-01913-5",
+        "abstract_url": "https://arxiv.org/abs/2204.09266v2",
+        "pdf_url": "https://arxiv.org/pdf/2204.09266v2"
+      },
+      "counts": {
+        "nodes": 84,
+        "edges": 170
+      },
+      "url": "data/records/2204.09266v2.json"
+    },
+    {
+      "record_id": "2205.02045v1",
+      "paper": {
+        "title": "Duality in convex stochastic optimization",
+        "authors": [
+          "Teemu Pennanen",
+          "Ari-Pekka Perkkiö"
+        ],
+        "arxiv_id": "2205.02045",
+        "version": "v1",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-025-02216-1",
+        "abstract_url": "https://arxiv.org/abs/2205.02045v1",
+        "pdf_url": "https://arxiv.org/pdf/2205.02045v1"
+      },
+      "counts": {
+        "nodes": 50,
+        "edges": 73
+      },
+      "url": "data/records/2205.02045v1.json"
+    },
+    {
+      "record_id": "2207.07470v2",
+      "paper": {
+        "title": "Role of Subgradients in Variational Analysis of Polyhedral Functions",
+        "authors": [
+          "N. T. V. Hang",
+          "W. Jung",
+          "M. E. Sarabi"
+        ],
+        "arxiv_id": "2207.07470",
+        "version": "v2",
+        "journal": "Journal of Optimization Theory and Applications",
+        "doi": "10.1007/s10957-024-02378-6",
+        "abstract_url": "https://arxiv.org/abs/2207.07470v2",
+        "pdf_url": "https://arxiv.org/pdf/2207.07470v2"
+      },
+      "counts": {
+        "nodes": 70,
+        "edges": 170
+      },
+      "url": "data/records/2207.07470v2.json"
+    },
+    {
+      "record_id": "2208.06524v1",
+      "paper": {
+        "title": "A Gradient Complexity Analysis for Minimizing the Sum of Strongly Convex Functions with Varying Condition Numbers",
+        "authors": [
+          "Nuozhou Wang",
+          "Shuzhong Zhang"
+        ],
+        "arxiv_id": "2208.06524",
+        "version": "v1",
+        "journal": "SIAM Journal on Optimization",
+        "doi": "10.1137/22m1503646",
+        "abstract_url": "https://arxiv.org/abs/2208.06524v1",
+        "pdf_url": "https://arxiv.org/pdf/2208.06524v1"
+      },
+      "counts": {
+        "nodes": 46,
+        "edges": 99
+      },
+      "url": "data/records/2208.06524v1.json"
+    },
+    {
+      "record_id": "2209.10825v4",
+      "paper": {
+        "title": "Nonsmooth Nonconvex-Nonconcave Minimax Optimization: Primal-Dual Balancing and Iteration Complexity Analysis",
+        "authors": [
+          "Jiajin Li",
+          "Linglingzhi Zhu",
+          "Anthony Man-Cho So"
+        ],
+        "arxiv_id": "2209.10825",
+        "version": "v4",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-025-02197-1",
+        "abstract_url": "https://arxiv.org/abs/2209.10825v4",
+        "pdf_url": "https://arxiv.org/pdf/2209.10825v4"
+      },
+      "counts": {
+        "nodes": 118,
+        "edges": 291
+      },
+      "url": "data/records/2209.10825v4.json"
+    },
+    {
+      "record_id": "2210.02531v2",
+      "paper": {
+        "title": "Nonconvex quasi-variational inequalities: stability analysis and application to numerical optimization",
+        "authors": [
+          "Joydeep Dutta",
+          "Lahoussine Lafhim",
+          "Alain Zemkoho",
+          "Shenglong Zhou"
+        ],
+        "arxiv_id": "2210.02531",
+        "version": "v2",
+        "journal": "Journal of Optimization Theory and Applications",
+        "doi": "10.1007/s10957-024-02582-4",
+        "abstract_url": "https://arxiv.org/abs/2210.02531v2",
+        "pdf_url": "https://arxiv.org/pdf/2210.02531v2"
+      },
+      "counts": {
+        "nodes": 36,
+        "edges": 62
+      },
+      "url": "data/records/2210.02531v2.json"
+    },
+    {
+      "record_id": "2212.01504v1",
+      "paper": {
+        "title": "A mirror inertial forward-reflected-backward splitting: Global convergence and linesearch extension beyond convexity and Lipschitz smoothness",
+        "authors": [
+          "Ziyuan Wang",
+          "Andreas Themelis",
+          "Hongjia Ou",
+          "Xianfu Wang"
+        ],
+        "arxiv_id": "2212.01504",
+        "version": "v1",
+        "journal": "Journal of Optimization Theory and Applications",
+        "doi": "10.1007/s10957-024-02383-9",
+        "abstract_url": "https://arxiv.org/abs/2212.01504v1",
+        "pdf_url": "https://arxiv.org/pdf/2212.01504v1"
+      },
+      "counts": {
+        "nodes": 92,
+        "edges": 188
+      },
+      "url": "data/records/2212.01504v1.json"
+    },
+    {
+      "record_id": "2212.14577v1",
+      "paper": {
+        "title": "Extended convergence analysis of the Scholtes-type regularization for cardinality-constrained optimization problems",
+        "authors": [
+          "Sebastian Lammel",
+          "Vladimir Shikhman"
+        ],
+        "arxiv_id": "2212.14577",
+        "version": "v1",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-024-02082-3",
+        "abstract_url": "https://arxiv.org/abs/2212.14577v1",
+        "pdf_url": "https://arxiv.org/pdf/2212.14577v1"
+      },
+      "counts": {
+        "nodes": 64,
+        "edges": 192
+      },
+      "url": "data/records/2212.14577v1.json"
+    },
+    {
+      "record_id": "2301.03139v1",
+      "paper": {
+        "title": "A Newton-CG based augmented Lagrangian method for finding a second-order stationary point of nonconvex equality constrained optimization with complexity guarantees",
+        "authors": [
+          "Chuan He",
+          "Zhaosong Lu",
+          "Ting Kei Pong"
+        ],
+        "arxiv_id": "2301.03139",
+        "version": "v1",
+        "journal": "SIAM Journal on Optimization",
+        "doi": "10.1137/22m1489824",
+        "abstract_url": "https://arxiv.org/abs/2301.03139v1",
+        "pdf_url": "https://arxiv.org/pdf/2301.03139v1"
+      },
+      "counts": {
+        "nodes": 101,
+        "edges": 243
+      },
+      "url": "data/records/2301.03139v1.json"
+    },
+    {
+      "record_id": "2301.04431v4",
+      "paper": {
+        "title": "Adaptive proximal algorithms for convex optimization under local Lipschitz continuity of the gradient",
+        "authors": [
+          "Puya Latafat",
+          "Andreas Themelis",
+          "Lorenzo Stella",
+          "Panagiotis Patrinos"
+        ],
+        "arxiv_id": "2301.04431",
+        "version": "v4",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-024-02143-7",
+        "abstract_url": "https://arxiv.org/abs/2301.04431v4",
+        "pdf_url": "https://arxiv.org/pdf/2301.04431v4"
+      },
+      "counts": {
+        "nodes": 61,
+        "edges": 137
+      },
+      "url": "data/records/2301.04431v4.json"
+    },
+    {
+      "record_id": "2302.03550v2",
+      "paper": {
+        "title": "Exponential convergence rates for momentum stochastic gradient descent in the overparametrized setting",
+        "authors": [
+          "Benjamin Gess",
+          "Sebastian Kassing"
+        ],
+        "arxiv_id": "2302.03550",
+        "version": "v2",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-025-02308-y",
+        "abstract_url": "https://arxiv.org/abs/2302.03550v2",
+        "pdf_url": "https://arxiv.org/pdf/2302.03550v2"
+      },
+      "counts": {
+        "nodes": 69,
+        "edges": 147
+      },
+      "url": "data/records/2302.03550v2.json"
+    },
+    {
+      "record_id": "2302.05875v1",
+      "paper": {
+        "title": "A tensor optimization algorithm for computing Lagrangians of hypergraphs",
+        "authors": [
+          "Jingya Chang",
+          "Bin Xiao",
+          "Xin Zhang"
+        ],
+        "arxiv_id": "2302.05875",
+        "version": "v1",
+        "journal": "Journal of Optimization Theory and Applications",
+        "doi": "10.1007/s10957-023-02215-2",
+        "abstract_url": "https://arxiv.org/abs/2302.05875v1",
+        "pdf_url": "https://arxiv.org/pdf/2302.05875v1"
+      },
+      "counts": {
+        "nodes": 50,
+        "edges": 105
+      },
+      "url": "data/records/2302.05875v1.json"
+    },
+    {
+      "record_id": "2303.06838v3",
+      "paper": {
+        "title": "Sample Complexity Analysis for Adaptive Optimization Algorithms with Stochastic Oracles",
+        "authors": [
+          "Billy Jin",
+          "Katya Scheinberg",
+          "Miaolan Xie"
+        ],
+        "arxiv_id": "2303.06838",
+        "version": "v3",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-024-02078-z",
+        "abstract_url": "https://arxiv.org/abs/2303.06838v3",
+        "pdf_url": "https://arxiv.org/pdf/2303.06838v3"
+      },
+      "counts": {
+        "nodes": 42,
+        "edges": 74
+      },
+      "url": "data/records/2303.06838v3.json"
+    },
+    {
+      "record_id": "2305.03559v3",
+      "paper": {
+        "title": "On the convergence of proximal gradient methods for convex simple bilevel optimization",
+        "authors": [
+          "Puya Latafat",
+          "Andreas Themelis",
+          "Silvia Villa",
+          "Panagiotis Patrinos"
+        ],
+        "arxiv_id": "2305.03559",
+        "version": "v3",
+        "journal": "Journal of Optimization Theory and Applications",
+        "doi": "10.1007/s10957-024-02564-6",
+        "abstract_url": "https://arxiv.org/abs/2305.03559v3",
+        "pdf_url": "https://arxiv.org/pdf/2305.03559v3"
+      },
+      "counts": {
+        "nodes": 55,
+        "edges": 155
+      },
+      "url": "data/records/2305.03559v3.json"
+    },
+    {
+      "record_id": "2305.05828v3",
+      "paper": {
+        "title": "A Normal Map-Based Proximal Stochastic Gradient Method: Convergence and Identification Properties",
+        "authors": [
+          "Junwen Qiu",
+          "Li Jiang",
+          "Andre Milzarek"
+        ],
+        "arxiv_id": "2305.05828",
+        "version": "v3",
+        "journal": "SIAM Journal on Optimization",
+        "doi": "10.1137/25m1757332",
+        "abstract_url": "https://arxiv.org/abs/2305.05828v3",
+        "pdf_url": "https://arxiv.org/pdf/2305.05828v3"
+      },
+      "counts": {
+        "nodes": 97,
+        "edges": 229
+      },
+      "url": "data/records/2305.05828v3.json"
+    },
+    {
+      "record_id": "2305.17323v5",
+      "paper": {
+        "title": "Some Primal-Dual Theory for Subgradient Methods for Strongly Convex Optimization",
+        "authors": [
+          "Benjamin Grimmer",
+          "Danlin Li"
+        ],
+        "arxiv_id": "2305.17323",
+        "version": "v5",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-025-02201-8",
+        "abstract_url": "https://arxiv.org/abs/2305.17323v5",
+        "pdf_url": "https://arxiv.org/pdf/2305.17323v5"
+      },
+      "counts": {
+        "nodes": 54,
+        "edges": 113
+      },
+      "url": "data/records/2305.17323v5.json"
+    },
+    {
+      "record_id": "2308.05887v2",
+      "paper": {
+        "title": "A search-free $O(1/k^{3/2})$ homotopy inexact proximal-Newton extragradient algorithm for monotone variational inequalities",
+        "authors": [
+          "M. Marques Alves",
+          "João M. Pereira",
+          "Benar F. Svaiter"
+        ],
+        "arxiv_id": "2308.05887",
+        "version": "v2",
+        "journal": "SIAM Journal on Optimization",
+        "doi": "10.1137/23m1593000",
+        "abstract_url": "https://arxiv.org/abs/2308.05887v2",
+        "pdf_url": "https://arxiv.org/pdf/2308.05887v2"
+      },
+      "counts": {
+        "nodes": 73,
+        "edges": 134
+      },
+      "url": "data/records/2308.05887v2.json"
+    },
+    {
+      "record_id": "2310.12139v3",
+      "paper": {
+        "title": "Optimal and parameter-free gradient minimization methods for convex and nonconvex optimization",
+        "authors": [
+          "Guanghui Lan",
+          "Yuyuan Ouyang",
+          "Zhe Zhang"
+        ],
+        "arxiv_id": "2310.12139",
+        "version": "v3",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-026-02352-2",
+        "abstract_url": "https://arxiv.org/abs/2310.12139v3",
+        "pdf_url": "https://arxiv.org/pdf/2310.12139v3"
+      },
+      "counts": {
+        "nodes": 58,
+        "edges": 122
+      },
+      "url": "data/records/2310.12139v3.json"
+    },
+    {
+      "record_id": "2401.00108v2",
+      "paper": {
+        "title": "Stochastic Optimization under Hidden Convexity",
+        "authors": [
+          "Ilyas Fatkhullin",
+          "Niao He",
+          "Yifan Hu"
+        ],
+        "arxiv_id": "2401.00108",
+        "version": "v2",
+        "journal": "SIAM Journal on Optimization",
+        "doi": "10.1137/22m1708903",
+        "abstract_url": "https://arxiv.org/abs/2401.00108v2",
+        "pdf_url": "https://arxiv.org/pdf/2401.00108v2"
+      },
+      "counts": {
+        "nodes": 36,
+        "edges": 59
+      },
+      "url": "data/records/2401.00108v2.json"
+    },
+    {
+      "record_id": "2401.03155v4",
+      "paper": {
+        "title": "Stochastic Bregman Proximal Gradient Method Revisited: Kernel Conditioning and Painless Variance Reduction",
+        "authors": [
+          "Junyu Zhang"
+        ],
+        "arxiv_id": "2401.03155",
+        "version": "v4",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-025-02285-2",
+        "abstract_url": "https://arxiv.org/abs/2401.03155v4",
+        "pdf_url": "https://arxiv.org/pdf/2401.03155v4"
+      },
+      "counts": {
+        "nodes": 81,
+        "edges": 158
+      },
+      "url": "data/records/2401.03155v4.json"
+    },
+    {
+      "record_id": "2401.08665v3",
+      "paper": {
+        "title": "Zeroth-order Gradient and Quasi-Newton Methods for Nonsmooth Nonconvex Stochastic Optimization",
+        "authors": [
+          "Luke Marrinan",
+          "Uday V. Shanbhag",
+          "Farzad Yousefian"
+        ],
+        "arxiv_id": "2401.08665",
+        "version": "v3",
+        "journal": "SIAM Journal on Optimization",
+        "doi": "10.1137/23m1626724",
+        "abstract_url": "https://arxiv.org/abs/2401.08665v3",
+        "pdf_url": "https://arxiv.org/pdf/2401.08665v3"
+      },
+      "counts": {
+        "nodes": 55,
+        "edges": 115
+      },
+      "url": "data/records/2401.08665v3.json"
+    },
+    {
+      "record_id": "2401.17899v1",
+      "paper": {
+        "title": "On Tractability, Complexity, and Mixed-Integer Convex Programming Representability of Distributionally Favorable Optimization",
+        "authors": [
+          "Nan Jiang",
+          "Weijun Xie"
+        ],
+        "arxiv_id": "2401.17899",
+        "version": "v1",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-025-02299-w",
+        "abstract_url": "https://arxiv.org/abs/2401.17899v1",
+        "pdf_url": "https://arxiv.org/pdf/2401.17899v1"
+      },
+      "counts": {
+        "nodes": 25,
+        "edges": 39
+      },
+      "url": "data/records/2401.17899v1.json"
+    },
+    {
+      "record_id": "2402.06033v3",
+      "paper": {
+        "title": "An Inexact Halpern Iteration with Application to Distributionally Robust Optimization",
+        "authors": [
+          "Ling Liang",
+          "Zusen Xu",
+          "Kim-Chuan Toh",
+          "Jia-Jie Zhu"
+        ],
+        "arxiv_id": "2402.06033",
+        "version": "v3",
+        "journal": "Journal of Optimization Theory and Applications",
+        "doi": "10.1007/s10957-025-02744-y",
+        "abstract_url": "https://arxiv.org/abs/2402.06033v3",
+        "pdf_url": "https://arxiv.org/pdf/2402.06033v3"
+      },
+      "counts": {
+        "nodes": 48,
+        "edges": 105
+      },
+      "url": "data/records/2402.06033v3.json"
+    },
+    {
+      "record_id": "2402.10898v3",
+      "paper": {
+        "title": "The Price of Adaptivity in Stochastic Convex Optimization",
+        "authors": [
+          "Yair Carmon",
+          "Oliver Hinder"
+        ],
+        "arxiv_id": "2402.10898",
+        "version": "v3",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-025-02268-3",
+        "abstract_url": "https://arxiv.org/abs/2402.10898v3",
+        "pdf_url": "https://arxiv.org/pdf/2402.10898v3"
+      },
+      "counts": {
+        "nodes": 59,
+        "edges": 121
+      },
+      "url": "data/records/2402.10898v3.json"
+    },
+    {
+      "record_id": "2402.15646v2",
+      "paper": {
+        "title": "Stochastic ISTA/FISTA Adaptive Step Search Algorithms for Convex Composite Optimization",
+        "authors": [
+          "Lam M. Nguyen",
+          "Katya Scheinberg",
+          "Trang H. Tran"
+        ],
+        "arxiv_id": "2402.15646",
+        "version": "v2",
+        "journal": "Journal of Optimization Theory and Applications",
+        "doi": "10.1007/s10957-025-02621-8",
+        "abstract_url": "https://arxiv.org/abs/2402.15646v2",
+        "pdf_url": "https://arxiv.org/pdf/2402.15646v2"
+      },
+      "counts": {
+        "nodes": 105,
+        "edges": 253
+      },
+      "url": "data/records/2402.15646v2.json"
+    },
+    {
+      "record_id": "2403.12338v4",
+      "paper": {
+        "title": "Stochastic Halpern iteration in normed spaces and applications to reinforcement learning",
+        "authors": [
+          "Mario Bravo",
+          "Juan Pablo Contreras"
+        ],
+        "arxiv_id": "2403.12338",
+        "version": "v4",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-026-02345-1",
+        "abstract_url": "https://arxiv.org/abs/2403.12338v4",
+        "pdf_url": "https://arxiv.org/pdf/2403.12338v4"
+      },
+      "counts": {
+        "nodes": 44,
+        "edges": 76
+      },
+      "url": "data/records/2403.12338v4.json"
+    },
+    {
+      "record_id": "2403.13320v2",
+      "paper": {
+        "title": "Direct search for stochastic optimization in random subspaces with zeroth-, first-, and second-order convergence and expected complexity",
+        "authors": [
+          "K. J. Dzahini",
+          "S. M. Wild"
+        ],
+        "arxiv_id": "2403.13320",
+        "version": "v2",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-026-02404-7",
+        "abstract_url": "https://arxiv.org/abs/2403.13320v2",
+        "pdf_url": "https://arxiv.org/pdf/2403.13320v2"
+      },
+      "counts": {
+        "nodes": 92,
+        "edges": 155
+      },
+      "url": "data/records/2403.13320v2.json"
+    },
+    {
+      "record_id": "2404.17386v3",
+      "paper": {
+        "title": "Stochastic Bregman Subgradient Methods for Nonsmooth Nonconvex Optimization Problems",
+        "authors": [
+          "Kuangyu Ding",
+          "Kim-Chuan Toh"
+        ],
+        "arxiv_id": "2404.17386",
+        "version": "v3",
+        "journal": "Journal of Optimization Theory and Applications",
+        "doi": "10.1007/s10957-025-02749-7",
+        "abstract_url": "https://arxiv.org/abs/2404.17386v3",
+        "pdf_url": "https://arxiv.org/pdf/2404.17386v3"
+      },
+      "counts": {
+        "nodes": 41,
+        "edges": 84
+      },
+      "url": "data/records/2404.17386v3.json"
+    },
+    {
+      "record_id": "2405.10815v1",
+      "paper": {
+        "title": "A Functional Model Method for Nonconvex Nonsmooth Conditional Stochastic Optimization",
+        "authors": [
+          "Andrzej Ruszczyński",
+          "Shangzhe Yang"
+        ],
+        "arxiv_id": "2405.10815",
+        "version": "v1",
+        "journal": "SIAM Journal on Optimization",
+        "doi": "10.1137/23m1617965",
+        "abstract_url": "https://arxiv.org/abs/2405.10815v1",
+        "pdf_url": "https://arxiv.org/pdf/2405.10815v1"
+      },
+      "counts": {
+        "nodes": 102,
+        "edges": 225
+      },
+      "url": "data/records/2405.10815v1.json"
+    },
+    {
+      "record_id": "2406.00648v3",
+      "paper": {
+        "title": "Level proximal subdifferential, variational convexity, and pointwise quadratic approximation",
+        "authors": [
+          "Honglin Luo",
+          "Xianfu Wang",
+          "Ziyuan Wang",
+          "Xinmin Yang"
+        ],
+        "arxiv_id": "2406.00648",
+        "version": "v3",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-026-02355-z",
+        "abstract_url": "https://arxiv.org/abs/2406.00648v3",
+        "pdf_url": "https://arxiv.org/pdf/2406.00648v3"
+      },
+      "counts": {
+        "nodes": 46,
+        "edges": 83
+      },
+      "url": "data/records/2406.00648v3.json"
+    },
+    {
+      "record_id": "2406.17506v2",
+      "paper": {
+        "title": "Exact worst-case convergence rates of gradient descent: a complete analysis for all constant stepsizes over nonconvex and convex functions",
+        "authors": [
+          "Teodor Rotaru",
+          "François Glineur",
+          "Panagiotis Patrinos"
+        ],
+        "arxiv_id": "2406.17506",
+        "version": "v2",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-025-02313-1",
+        "abstract_url": "https://arxiv.org/abs/2406.17506v2",
+        "pdf_url": "https://arxiv.org/pdf/2406.17506v2"
+      },
+      "counts": {
+        "nodes": 108,
+        "edges": 216
+      },
+      "url": "data/records/2406.17506v2.json"
+    },
+    {
+      "record_id": "2407.03195v1",
+      "paper": {
+        "title": "Incremental Gauss--Newton Methods with Superlinear Convergence Rates",
+        "authors": [
+          "Zhiling Zhou",
+          "Zhuanghua Liu",
+          "Chengchang Liu",
+          "Luo Luo"
+        ],
+        "arxiv_id": "2407.03195",
+        "version": "v1",
+        "journal": "Journal of Optimization Theory and Applications",
+        "doi": "10.1007/s10957-026-02990-8",
+        "abstract_url": "https://arxiv.org/abs/2407.03195v1",
+        "pdf_url": "https://arxiv.org/pdf/2407.03195v1"
+      },
+      "counts": {
+        "nodes": 102,
+        "edges": 198
+      },
+      "url": "data/records/2407.03195v1.json"
+    },
+    {
+      "record_id": "2407.10073v4",
+      "paper": {
+        "title": "Universal subgradient and proximal bundle methods for convex and strongly convex hybrid composite optimization",
+        "authors": [
+          "Vincent Guigues",
+          "Jiaming Liang",
+          "Renato D. C. Monteiro"
+        ],
+        "arxiv_id": "2407.10073",
+        "version": "v4",
+        "journal": "Journal of Optimization Theory and Applications",
+        "doi": "10.1007/s10957-025-02927-7",
+        "abstract_url": "https://arxiv.org/abs/2407.10073v4",
+        "pdf_url": "https://arxiv.org/pdf/2407.10073v4"
+      },
+      "counts": {
+        "nodes": 71,
+        "edges": 134
+      },
+      "url": "data/records/2407.10073v4.json"
+    },
+    {
+      "record_id": "2408.05021v1",
+      "paper": {
+        "title": "Two-norm discrepancy and convergence of the stochastic gradient method with application to shape optimization",
+        "authors": [
+          "Marc Dambrine",
+          "Caroline Geiersbach",
+          "Helmut Harbrecht"
+        ],
+        "arxiv_id": "2408.05021",
+        "version": "v1",
+        "journal": "SIAM Journal on Optimization",
+        "doi": "10.1137/24m168372x",
+        "abstract_url": "https://arxiv.org/abs/2408.05021v1",
+        "pdf_url": "https://arxiv.org/pdf/2408.05021v1"
+      },
+      "counts": {
+        "nodes": 29,
+        "edges": 59
+      },
+      "url": "data/records/2408.05021v1.json"
+    },
+    {
+      "record_id": "2409.07122v3",
+      "paper": {
+        "title": "Decentralized Conjugate Gradient and Memoryless BFGS Methods",
+        "authors": [
+          "Liping Wang",
+          "Hao Wu",
+          "Hongchao Zhang"
+        ],
+        "arxiv_id": "2409.07122",
+        "version": "v3",
+        "journal": "Journal of Optimization Theory and Applications",
+        "doi": "10.1007/s10957-026-03112-0",
+        "abstract_url": "https://arxiv.org/abs/2409.07122v3",
+        "pdf_url": "https://arxiv.org/pdf/2409.07122v3"
+      },
+      "counts": {
+        "nodes": 49,
+        "edges": 113
+      },
+      "url": "data/records/2409.07122v3.json"
+    },
+    {
+      "record_id": "2409.09906v4",
+      "paper": {
+        "title": "Variance-reduced first-order methods for deterministically constrained stochastic nonconvex optimization with strong convergence guarantees",
+        "authors": [
+          "Zhaosong Lu",
+          "Sanyou Mei",
+          "Yifeng Xiao"
+        ],
+        "arxiv_id": "2409.09906",
+        "version": "v4",
+        "journal": "SIAM Journal on Optimization",
+        "doi": "10.1137/24m1693933",
+        "abstract_url": "https://arxiv.org/abs/2409.09906v4",
+        "pdf_url": "https://arxiv.org/pdf/2409.09906v4"
+      },
+      "counts": {
+        "nodes": 49,
+        "edges": 118
+      },
+      "url": "data/records/2409.09906v4.json"
+    },
+    {
+      "record_id": "2410.01382v2",
+      "paper": {
+        "title": "Analyzing the speed of convergence in nonsmooth optimization via the Goldstein subdifferential with application to descent methods",
+        "authors": [
+          "Bennet Gebken"
+        ],
+        "arxiv_id": "2410.01382",
+        "version": "v2",
+        "journal": "Journal of Optimization Theory and Applications",
+        "doi": "10.1007/s10957-025-02748-8",
+        "abstract_url": "https://arxiv.org/abs/2410.01382v2",
+        "pdf_url": "https://arxiv.org/pdf/2410.01382v2"
+      },
+      "counts": {
+        "nodes": 17,
+        "edges": 32
+      },
+      "url": "data/records/2410.01382v2.json"
+    },
+    {
+      "record_id": "2410.02626v1",
+      "paper": {
+        "title": "Online Learning Guided Quasi-Newton Methods with Global Non-Asymptotic Convergence",
+        "authors": [
+          "Ruichen Jiang",
+          "Aryan Mokhtari"
+        ],
+        "arxiv_id": "2410.02626",
+        "version": "v1",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-026-02396-4",
+        "abstract_url": "https://arxiv.org/abs/2410.02626v1",
+        "pdf_url": "https://arxiv.org/pdf/2410.02626v1"
+      },
+      "counts": {
+        "nodes": 122,
+        "edges": 248
+      },
+      "url": "data/records/2410.02626v1.json"
+    },
+    {
+      "record_id": "2412.00585v4",
+      "paper": {
+        "title": "Primal-dual proximal bundle and conditional gradient methods for convex problems",
+        "authors": [
+          "Jiaming Liang"
+        ],
+        "arxiv_id": "2412.00585",
+        "version": "v4",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-025-02307-z",
+        "abstract_url": "https://arxiv.org/abs/2412.00585v4",
+        "pdf_url": "https://arxiv.org/pdf/2412.00585v4"
+      },
+      "counts": {
+        "nodes": 83,
+        "edges": 178
+      },
+      "url": "data/records/2412.00585v4.json"
+    },
+    {
+      "record_id": "2412.06730v4",
+      "paper": {
+        "title": "Stochastic and incremental subgradient methods for convex optimization on Hadamard spaces",
+        "authors": [
+          "Ariel Goodwin",
+          "Adrian S. Lewis",
+          "Genaro López-Acedo",
+          "Adriana Nicolae"
+        ],
+        "arxiv_id": "2412.06730",
+        "version": "v4",
+        "journal": "Mathematical Programming",
+        "doi": "10.1007/s10107-026-02334-4",
+        "abstract_url": "https://arxiv.org/abs/2412.06730v4",
+        "pdf_url": "https://arxiv.org/pdf/2412.06730v4"
+      },
+      "counts": {
+        "nodes": 46,
+        "edges": 85
+      },
+      "url": "data/records/2412.06730v4.json"
+    },
+    {
+      "record_id": "2502.11125v3",
+      "paper": {
+        "title": "Convergence Analysis of Stochastic Accelerated Gradient Methods for Generalized Smooth Optimizations",
+        "authors": [
+          "Chenhao Yu",
+          "Yusu Hong",
+          "Junhong Lin"
+        ],
+        "arxiv_id": "2502.11125",
+        "version": "v3",
+        "journal": "Journal of Optimization Theory and Applications",
+        "doi": "10.1007/s10957-026-03102-2",
+        "abstract_url": "https://arxiv.org/abs/2502.11125v3",
+        "pdf_url": "https://arxiv.org/pdf/2502.11125v3"
+      },
+      "counts": {
+        "nodes": 64,
+        "edges": 152
+      },
+      "url": "data/records/2502.11125v3.json"
+    },
+    {
+      "record_id": "2502.16020v1",
+      "paper": {
+        "title": "Interior-point algorithms with full Newton steps for nonsymmetric convex conic optimization",
+        "authors": [
+          "Dávid Papp",
+          "Anita Varga"
+        ],
+        "arxiv_id": "2502.16020",
+        "version": "v1",
+        "journal": "SIAM Journal on Optimization",
+        "doi": "10.1137/25m1736396",
+        "abstract_url": "https://arxiv.org/abs/2502.16020v1",
+        "pdf_url": "https://arxiv.org/pdf/2502.16020v1"
+      },
+      "counts": {
+        "nodes": 39,
+        "edges": 75
+      },
+      "url": "data/records/2502.16020v1.json"
+    },
+    {
+      "record_id": "2505.03050v1",
+      "paper": {
+        "title": "Convergence of First-Order Algorithms with Momentum from the Perspective of an Inexact Gradient Descent Method",
+        "authors": [
+          "Pham Duy Khanh",
+          "Boris Mordukhovich",
+          "Dat Ba Tran"
+        ],
+        "arxiv_id": "2505.03050",
+        "version": "v1",
+        "journal": "Journal of Optimization Theory and Applications",
+        "doi": "10.1007/s10957-025-02864-5",
+        "abstract_url": "https://arxiv.org/abs/2505.03050v1",
+        "pdf_url": "https://arxiv.org/pdf/2505.03050v1"
+      },
+      "counts": {
+        "nodes": 76,
+        "edges": 192
+      },
+      "url": "data/records/2505.03050v1.json"
+    },
+    {
+      "record_id": "2506.10849v4",
+      "paper": {
+        "title": "Bregman proximal gradient method for linear optimization under entropic constraints",
+        "authors": [
+          "Luis M. Briceño-Arias",
+          "Maël Le Treust"
+        ],
+        "arxiv_id": "2506.10849",
+        "version": "v4",
+        "journal": "Journal of Optimization Theory and Applications",
+        "doi": "10.1007/s10957-026-03017-y",
+        "abstract_url": "https://arxiv.org/abs/2506.10849v4",
+        "pdf_url": "https://arxiv.org/pdf/2506.10849v4"
+      },
+      "counts": {
+        "nodes": 45,
+        "edges": 107
+      },
+      "url": "data/records/2506.10849v4.json"
+    },
+    {
+      "record_id": "2506.12397v1",
+      "paper": {
+        "title": "Monotone and nonmonotone linearized block coordinate descent methods for nonsmooth composite optimization problems",
+        "authors": [
+          "Yassine Nabou",
+          "Lahcen El Bourkhissi",
+          "Sebastian U. Stich",
+          "Tuomo Valkonen"
+        ],
+        "arxiv_id": "2506.12397",
+        "version": "v1",
+        "journal": "Journal of Optimization Theory and Applications",
+        "doi": "10.1007/s10957-026-03120-0",
+        "abstract_url": "https://arxiv.org/abs/2506.12397v1",
+        "pdf_url": "https://arxiv.org/pdf/2506.12397v1"
+      },
+      "counts": {
+        "nodes": 46,
+        "edges": 118
+      },
+      "url": "data/records/2506.12397v1.json"
+    },
+    {
+      "record_id": "2508.01353v2",
+      "paper": {
+        "title": "Linesearch-free adaptive Bregman proximal gradient for convex minimization under local relative smoothness",
+        "authors": [
+          "Hongjia Ou",
+          "Puya Latafat",
+          "Andreas Themelis"
+        ],
+        "arxiv_id": "2508.01353",
+        "version": "v2",
+        "journal": "Journal of Optimization Theory and Applications",
+        "doi": "10.1007/s10957-026-03101-3",
+        "abstract_url": "https://arxiv.org/abs/2508.01353v2",
+        "pdf_url": "https://arxiv.org/pdf/2508.01353v2"
+      },
+      "counts": {
+        "nodes": 117,
+        "edges": 216
+      },
+      "url": "data/records/2508.01353v2.json"
+    },
+    {
+      "record_id": "2509.00737v3",
+      "paper": {
+        "title": "Convergence Analysis of the ProbAbilistic Gradient Estimator Algorithm for Weakly Convex Finite-Sum Optimization",
+        "authors": [
+          "Laurent Condat",
+          "Peter Richtárik"
+        ],
+        "arxiv_id": "2509.00737",
+        "version": "v3",
+        "journal": "Journal of Optimization Theory and Applications",
+        "doi": "10.1007/s10957-026-03065-4",
+        "abstract_url": "https://arxiv.org/abs/2509.00737v3",
+        "pdf_url": "https://arxiv.org/pdf/2509.00737v3"
+      },
+      "counts": {
+        "nodes": 37,
+        "edges": 79
+      },
+      "url": "data/records/2509.00737v3.json"
+    },
+    {
+      "record_id": "2510.16680v3",
+      "paper": {
+        "title": "HNAG$^{++}$: An Accelerated Gradient Method with a Refined Asymptotic Rate for Strongly Convex Optimization",
+        "authors": [
+          "Long Chen",
+          "Zeyi Xu"
+        ],
+        "arxiv_id": "2510.16680",
+        "version": "v3",
+        "journal": "Journal of Optimization Theory and Applications",
+        "doi": "10.1007/s10957-026-03131-x",
+        "abstract_url": "https://arxiv.org/abs/2510.16680v3",
+        "pdf_url": "https://arxiv.org/pdf/2510.16680v3"
+      },
+      "counts": {
+        "nodes": 75,
+        "edges": 158
+      },
+      "url": "data/records/2510.16680v3.json"
+    },
+    {
+      "record_id": "2510.27156v1",
+      "paper": {
+        "title": "Variable Smoothing Alternating Proximal Gradient Algorithm for Coupled Composite Optimization",
+        "authors": [
+          "Xian-Jun Long",
+          "Kang Zeng",
+          "Gao-Xi Li",
+          "Minh N. Dao",
+          "Zai-Yun Peng"
+        ],
+        "arxiv_id": "2510.27156",
+        "version": "v1",
+        "journal": "Journal of Optimization Theory and Applications",
+        "doi": "10.1007/s10957-026-02966-8",
+        "abstract_url": "https://arxiv.org/abs/2510.27156v1",
+        "pdf_url": "https://arxiv.org/pdf/2510.27156v1"
+      },
+      "counts": {
+        "nodes": 66,
+        "edges": 126
+      },
+      "url": "data/records/2510.27156v1.json"
+    },
+    {
+      "record_id": "2511.03296v1",
+      "paper": {
+        "title": "Technical results on the convergence of quasi-Newton methods for nonsmooth optimization",
+        "authors": [
+          "Bennet Gebken"
+        ],
+        "arxiv_id": "2511.03296",
+        "version": "v1",
+        "journal": "Journal of Optimization Theory and Applications",
+        "doi": "10.1007/s10957-026-03008-z",
+        "abstract_url": "https://arxiv.org/abs/2511.03296v1",
+        "pdf_url": "https://arxiv.org/pdf/2511.03296v1"
+      },
+      "counts": {
+        "nodes": 44,
+        "edges": 88
+      },
+      "url": "data/records/2511.03296v1.json"
+    },
+    {
+      "record_id": "2511.10414v2",
+      "paper": {
+        "title": "Minimizing Smooth Kurdyka-Łojasiewicz Functions via Generalized Descent Methods: Convergence Rate and Complexity",
+        "authors": [
+          "Masoud Ahookhosh",
+          "Susan Ghaderi",
+          "Alireza Kabgani",
+          "Morteza Rahimi"
+        ],
+        "arxiv_id": "2511.10414",
+        "version": "v2",
+        "journal": "Journal of Optimization Theory and Applications",
+        "doi": "10.1007/s10957-026-03034-x",
+        "abstract_url": "https://arxiv.org/abs/2511.10414v2",
+        "pdf_url": "https://arxiv.org/pdf/2511.10414v2"
+      },
+      "counts": {
+        "nodes": 37,
+        "edges": 69
+      },
+      "url": "data/records/2511.10414v2.json"
+    },
+    {
+      "record_id": "2608.05653v1",
+      "paper": {
+        "title": "Fast Gradient Algorithm with Dry-like Friction and Nonmonotone Line Search for Nonconvex Optimization Problems",
+        "authors": [
+          "Lien T. Nguyen",
+          "Andrew Eberhard",
+          "Xinghuo Yu",
+          "Chaojie Li"
+        ],
+        "arxiv_id": "2608.05653",
+        "version": "v1",
+        "journal": "SIAM Journal on Optimization",
+        "doi": "10.1137/22m1532354",
+        "abstract_url": "https://arxiv.org/abs/2608.05653v1",
+        "pdf_url": "https://arxiv.org/pdf/2608.05653v1"
+      },
+      "counts": {
+        "nodes": 67,
+        "edges": 152
+      },
+      "url": "data/records/2608.05653v1.json"
+    }
+  ]
+}

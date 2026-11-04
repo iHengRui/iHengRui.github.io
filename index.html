@@ -4,11 +4,11 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Hengrui Zhang · 张恒睿</title>
-<meta name="description" content="Hengrui Zhang, master's student at Peking University. Optimization and machine learning research, selected papers, OptBound, and mathematical notes.">
+<meta name="description" content="Hengrui Zhang, master's student at Peking University. Optimization and machine learning research, selected papers, OptBound, OptProof, and mathematical notes.">
 <meta name="theme-color" content="#161817">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Hengrui Zhang · 张恒睿">
-<meta property="og:description" content="Optimization and machine learning. Research, papers, OptBound, and mathematical notes.">
+<meta property="og:description" content="Optimization and machine learning. Research, papers, OptBound, OptProof, and mathematical notes.">
 <meta property="og:url" content="https://zhr.xyz/">
 <meta name="twitter:card" content="summary">
 <link rel="canonical" href="https://zhr.xyz/">
@@ -16,6 +16,7 @@
 <script src="/assets/theme.js">
 </script>
 <link rel="stylesheet" href="/assets/site.css?v=accepted1">
+<link rel="stylesheet" href="/assets/optproof-project.css?v=1">
 <script src="/assets/site.js?v=nav2" defer>
 </script>
 </head>
@@ -71,7 +72,7 @@
 </section>
 <section id="projects" class="section projects-section" aria-labelledby="projects-title">
 <div class="section-heading">
-<h2 id="projects-title">Featured project</h2>
+<h2 id="projects-title">Featured projects</h2>
 </div>
 <article class="featured-project">
 <div class="project-description">
@@ -107,6 +108,41 @@
 </a>
 </div>
 </div>
+</article>
+<article class="featured-project optproof-card">
+<div class="project-description">
+<h3>
+<a href="/optproof/"><span class="optproof-wordmark"><span class="wordmark-opt">Opt</span><span class="wordmark-proof">Proof</span></span> <span class="project-arrow" aria-hidden="true">→</span>
+</a>
+</h3>
+<p class="project-deck">A Structured Proof Dataset from Optimization Journals</p>
+<p class="muted">Complete proofs from <em>Mathematical Programming</em>, <em>SIAM Journal on Optimization</em>, and the <em>Journal of Optimization Theory and Applications</em>. Each record includes the necessary context, target statement, original proof text, proof nodes, and a dependency graph.</p>
+<div class="project-links">
+<a class="button primary" href="/optproof/">Explore OptProof <span aria-hidden="true">→</span>
+</a>
+<a class="button" href="/optproof/downloads/optproof.jsonl.gz" download>Download dataset <span aria-hidden="true">↓</span>
+</a>
+</div>
+</div>
+<aside class="project-index" aria-label="OptProof dataset at a glance">
+<div class="index-heading">Dataset at a glance</div>
+<dl class="optproof-statistics">
+<div>
+<dt>Proof records</dt>
+<dd>155</dd>
+</div>
+<div>
+<dt>Journals</dt>
+<dd>3</dd>
+</div>
+</dl>
+<p class="index-label">Proof records by journal</p>
+<dl class="optproof-journal-counts">
+<div><dt><abbr title="Mathematical Programming">MP</abbr></dt><dd>51</dd></div>
+<div><dt><abbr title="SIAM Journal on Optimization">SIOPT</abbr></dt><dd>59</dd></div>
+<div><dt><abbr title="Journal of Optimization Theory and Applications">JOTA</abbr></dt><dd>45</dd></div>
+</dl>
+</aside>
 </article>
 </section>
 <section id="publications" class="section" aria-labelledby="publications-title">
