@@ -9,7 +9,7 @@
   };
   if (toggle) {
     toggle.hidden = false;
-    updateTheme(document.documentElement.dataset.theme || 'dark');
+    updateTheme(document.documentElement.dataset.theme || 'light');
     toggle.addEventListener('click', () => {
       const theme = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark';
       updateTheme(theme);
