@@ -1,41 +1,71 @@
-.projects-section .featured-project + .featured-project {
+.projects-section .featured-project + .optproof-card {
   margin-top: 24px;
 }
 
-.optproof-wordmark {
-  white-space: nowrap;
-}
-
-.optproof-wordmark .wordmark-opt {
+.optproof-card {
+  color-scheme: light;
+  --bg-alt: #f4fbff;
+  --surface: #fff;
+  --text: #101923;
+  --muted: #42566a;
+  --faint: #526c80;
+  --line: #cbdfea;
+  --line-strong: #5086a6;
+  --accent: #0284c7;
+  --accent-strong: #0369a1;
+  --button-text: #0c2638;
   color: var(--text);
 }
 
-.optproof-wordmark .wordmark-proof {
+.optproof-card .optproof-wordmark {
+  white-space: nowrap;
+}
+
+.optproof-card .optproof-wordmark .wordmark-opt {
+  color: var(--text);
+}
+
+.optproof-card .optproof-wordmark .wordmark-proof {
   color: var(--accent);
+}
+
+.optproof-card .button.primary {
+  background: #7dd3fc;
+  border-color: #7dd3fc;
+  color: var(--button-text);
+}
+
+.optproof-card .button.primary:hover {
+  background: #bae6fd;
+  border-color: #38bdf8;
 }
 
 .optproof-card .project-index {
   display: block;
 }
 
-.optproof-statistics {
+.optproof-card .index-label {
+  color: var(--accent-strong);
+}
+
+.optproof-card .optproof-statistics {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 20px;
   margin: 19px 0 23px;
 }
 
-.optproof-statistics > div {
+.optproof-card .optproof-statistics > div {
   display: flex;
   flex-direction: column;
 }
 
-.optproof-statistics dt {
+.optproof-card .optproof-statistics dt {
   color: var(--muted);
   font-size: 12px;
 }
 
-.optproof-statistics dd {
+.optproof-card .optproof-statistics dd {
   order: -1;
   margin: 0;
   color: var(--text);
@@ -45,11 +75,11 @@
   letter-spacing: -.03em;
 }
 
-.optproof-journal-counts {
+.optproof-card .optproof-journal-counts {
   margin: 0;
 }
 
-.optproof-journal-counts > div {
+.optproof-card .optproof-journal-counts > div {
   display: flex;
   justify-content: space-between;
   gap: 18px;
@@ -57,11 +87,11 @@
   color: var(--muted);
 }
 
-.optproof-journal-counts abbr {
+.optproof-card .optproof-journal-counts abbr {
   text-decoration: none;
 }
 
-.optproof-journal-counts dd {
+.optproof-card .optproof-journal-counts dd {
   margin: 0;
   color: var(--text);
   font-variant-numeric: tabular-nums;

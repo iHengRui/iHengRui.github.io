@@ -126,13 +126,13 @@ function appendSemanticGraphView(host,record){
     for(const key of new Set(nodes.map(node=>node.semantic_type||node.kind))){const type=semanticType(key),pill=text('span',type.label,'semantic-type-pill');pill.style.setProperty('--type-fill',type.fill);pill.style.setProperty('--type-stroke',type.stroke);legend.append(pill);}
     currentMainId=graph.main_result_id||nodes[0].id;layout=semanticGraphLayout(nodes,edges,currentMainId);stats.textContent=nodes.length+' nodes · '+edges.length+' support links';
     svg=semanticElement('svg',{role:'img','aria-label':'Dependency graph: supporting nodes point to supported nodes','data-direction-convention':'supporter_to_supported'});
-    const defs=semanticElement('defs'),marker=semanticElement('marker',{id:'semantic-arrow',viewBox:'0 0 10 10',refX:9,refY:5,markerWidth:6,markerHeight:6,orient:'auto'});marker.append(semanticElement('path',{d:'M 0 0 L 10 5 L 0 10 z',fill:'#176b72'}));defs.append(marker);svg.append(defs);
+    const defs=semanticElement('defs'),marker=semanticElement('marker',{id:'semantic-arrow',viewBox:'0 0 10 10',refX:9,refY:5,markerWidth:6,markerHeight:6,orient:'auto'});marker.append(semanticElement('path',{d:'M 0 0 L 10 5 L 0 10 z',fill:'#147daf'}));defs.append(marker);svg.append(defs);
     for(const edge of edges){
       const a=layout.pos.get(edge.source_id),b=layout.pos.get(edge.target_id);if(!a||!b)continue;
       const forward=b.y>a.y,sx=a.x+a.w/2,tx=b.x+b.w/2,sy=forward?a.y+a.h:a.y,ty=forward?b.y:b.y+b.h,mid=(sy+ty)/2;
       let d=a.y===b.y?`M ${sx} ${a.y+a.h} C ${sx} ${a.y+a.h+25}, ${tx} ${b.y+b.h+25}, ${tx} ${b.y+b.h}`:`M ${sx} ${sy} C ${sx} ${mid}, ${tx} ${mid}, ${tx} ${ty}`;
       if(edge.source_id===edge.target_id){const x=a.x+a.w,y=a.y+a.h/2;d=`M ${x} ${y-13} C ${x+48} ${y-48}, ${x+48} ${y+48}, ${x} ${y+13}`;}
-      const path=semanticElement('path',{d,fill:'none',stroke:'#176b72','stroke-width':1.8,'marker-end':'url(#semantic-arrow)','data-source-id':edge.source_id,'data-target-id':edge.target_id,'data-edge-kind':'supports'});path.append(semanticElement('title',{},edge.source_id+' → '+edge.target_id));svg.append(path);
+      const path=semanticElement('path',{d,fill:'none',stroke:'#147daf','stroke-width':1.8,'marker-end':'url(#semantic-arrow)','data-source-id':edge.source_id,'data-target-id':edge.target_id,'data-edge-kind':'supports'});path.append(semanticElement('title',{},edge.source_id+' → '+edge.target_id));svg.append(path);
     }
     for(const node of nodes){
       const p=layout.pos.get(node.id),type=semanticType(node.semantic_type||node.kind),element=semanticElement('g',{'class':'semantic-node','data-semantic-node-id':node.id,tabindex:0,role:'button','aria-label':node.id+' '+type.label+' '+node.title});element.append(semanticElement('rect',{x:p.x,y:p.y,width:p.w,height:p.h,rx:8,fill:type.fill,stroke:type.stroke,'stroke-width':state.selected===node.id?3:1.5}));element.append(semanticElement('text',{x:p.x+10,y:p.y+17,fill:'#496575','font-size':10},node.id+' · '+type.label));

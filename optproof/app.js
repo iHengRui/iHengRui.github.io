@@ -9,9 +9,9 @@ const authorsOf=paper=>(paper.authors||[]).map(author=>typeof author==='string'?
 
 function setupTheme(){
   const toggle=document.getElementById('theme-toggle');
-  const update=theme=>{document.documentElement.dataset.theme=theme;const next=theme==='dark'?'light':'dark';toggle.setAttribute('aria-label',`Switch to ${next} theme`);toggle.title=`Switch to ${next} theme`;document.querySelector('meta[name="theme-color"]').content=theme==='dark'?'#161817':'#f7f8f5';};
-  update(document.documentElement.dataset.theme||'dark');toggle.hidden=false;
-  toggle.addEventListener('click',()=>{const theme=document.documentElement.dataset.theme==='dark'?'light':'dark';update(theme);try{localStorage.setItem('zhr-theme',theme);}catch(_){}});
+  const update=theme=>{document.documentElement.dataset.theme=theme;const next=theme==='dark'?'light':'dark';toggle.setAttribute('aria-label',`Switch to ${next} theme`);toggle.title=`Switch to ${next} theme`;document.querySelector('meta[name="theme-color"]').content=theme==='dark'?'#101d2d':'#142c44';};
+  update(document.documentElement.dataset.theme||'light');toggle.hidden=false;
+  toggle.addEventListener('click',()=>{const theme=document.documentElement.dataset.theme==='dark'?'light':'dark';update(theme);try{localStorage.setItem('optproof-theme',theme);}catch(_){}});
 }
 function readLocation(){
   const params=new URLSearchParams(location.search),id=params.get('paper'),section=params.get('tab');
