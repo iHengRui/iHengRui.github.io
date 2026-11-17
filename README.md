@@ -11,11 +11,11 @@ This is the `gh-pages` deployment branch of `iHengRui/iHengRui.github.io`. GitHu
 - `assets/theme.js` and `assets/site.js`: persistent theme preference and navigation highlighting. All content and links work without JavaScript.
 - `blog/index.html`: writing index.
 - `2024/08/10/real_analysis/index.html`: original Real Analysis notes, inside the shared reading layout. Preserve the article body and embedded MathJax SVGs when editing its shell.
-- `files/Hengrui_Zhang_CV_20261105.pdf`: current English CV.
-- `files/Hengrui_Zhang_CV_ZH_20261105.pdf`: current Chinese CV.
+- `files/Hengrui_Zhang_CV_20261117.pdf`: current English CV.
+- `files/Hengrui_Zhang_CV_ZH_20261117.pdf`: current Chinese CV.
 - Publish CV revisions under new filenames and update the homepage links to avoid stale PDF previews. Keep previously published PDF download paths in sync for existing bookmarks and cached homepage links.
 
-For arXiv:2602.20646, publish only the preprint status and arXiv identifier on the homepage and in both public CVs. Build the public PDFs from separate TeX copies. When syncing a new full CV, reapply the public wording, check extracted text and links in both PDFs, and update every download alias. Keep the full CV sources, PDFs, and archive separate.
+For arXiv:2602.20646, publish only the preprint status and arXiv identifier on the homepage and in both public CVs. Build the public PDFs from separate TeX copies. When syncing a new full CV, reapply the public wording, check extracted text and links in both PDFs, and update every download alias. Keep the full CV sources, PDFs, and archive separate. Omit the PKU Graduate Award for Scientific Practice and Innovation from the homepage and public CVs until requested again.
 
 OptBound currently uses HTTP because its custom domain's HTTPS certificate was not valid when this page was updated. The project card distinguishes the live decentralized suite from planned stochastic suites. Recheck the certificate before changing those links to HTTPS.
 
